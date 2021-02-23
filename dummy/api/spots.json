@@ -2,19 +2,29 @@
   "code": 0,
   "items": [
     {
-      "spotId": 1
+      "spotId": 1,
+      "spotTitle": "우만동 현장",
+      "thumb":"https://buildprop.io/dummy/photo/1.png"
     },
     {
-      "spotId": 2
+      "spotId": 2,
+      "spotTitle": "가양 종합병원",
+      "thumb":""
     },
     {
-      "spotId": 3
+      "spotId": 3,
+      "spotTitle": "수원시 팔달구 우만동 123-12",
+      "thumb":""
     },
     {
-      "spotId": 4
+      "spotId": 4,
+      "spotTitle": "부산시청",
+      "thumb":"https://buildprop.io/dummy/photo/2.png"
     },
     {
-      "spotId": 5
+      "spotId": 5,
+      "spotTitle": "갑을상사 개인 사옥",
+      "thumb":"https://buildprop.io/dummy/photo/4.png"
     }
   ]
 }
