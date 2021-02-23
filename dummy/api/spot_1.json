@@ -2,11 +2,11 @@
   "code": 0,
   "item": {
     "spotId": 1,
-    "spotTitle": "우만동 현장",
+    "spotTitle": "광화문 현장",
     "thumb": "https://buildprop.io/dummy/photo/1.png",
     "gps": {
-      "x": 37.28653480975077,
-      "y": 127.03641994010128
+      "x": 37.57485842779867,
+      "y": 126.97397870844254
     }
   }
 }
