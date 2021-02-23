@@ -4,6 +4,7 @@
     "spotId": 1,
     "spotTitle": "광화문 현장",
     "thumb": "https://buildprop.io/dummy/photo/1.png",
+    "address": "서울특별시 종로구 사직동 새문안로5가길 28",
     "gps": {
       "x": 37.57485842779867,
       "y": 126.97397870844254
