@@ -8,7 +8,8 @@
       "manufacturer": "마끼다",
       "DateAtManufacture":2012,
       "spot":"광화문 현장",
-      "manager" : "홍길동"
+      "manager" : "홍길동",
+      "icon":"https://buildprop.io/dummy/photo/icon/0.png"
     },
     {
       "equipId": 1,
@@ -17,7 +18,8 @@
       "manufacturer": "보쉬",
       "DateAtManufacture":2010,
       "spot":"우만동",
-      "manager" : "임영철"
+      "manager" : "임영철",
+      "icon":"https://buildprop.io/dummy/photo/icon/1.png"
     },
     {
       "equipId": 1,
@@ -26,7 +28,8 @@
       "manufacturer": "히타치",
       "DateAtManufacture":1992,
       "spot":"평택교육청",
-      "manager" : "김영택"
+      "manager" : "김영택",
+      "icon":"https://buildprop.io/dummy/photo/icon/2.png"
     },
     {
       "equipId": 1,
@@ -35,7 +38,8 @@
       "manufacturer": "아임삭",
       "DateAtManufacture":2003,
       "spot":"하남백화점",
-      "manager" : "강동훈"
+      "manager" : "강동훈",
+      "icon":"https://buildprop.io/dummy/photo/icon/3.png"
     }
   ]
 }
