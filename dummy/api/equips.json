@@ -2,64 +2,40 @@
   "code": 0,
   "items": [
     {
-      "equipId": 1
+      "equipId": 1,
+      "category": "airtool",
+      "categoryTitle": "에어툴",
+      "manufacturer": "마끼다",
+      "DateAtManufacture":2012,
+      "spot":"광화문 현장",
+      "manager" : "홍길동"
     },
     {
-      "equipId": 2
+      "equipId": 1,
+      "category": "compressor",
+      "categoryTitle": "콤프레샤",
+      "manufacturer": "보쉬",
+      "DateAtManufacture":2010,
+      "spot":"우만동",
+      "manager" : "임영철"
     },
     {
-      "equipId": 3
+      "equipId": 1,
+      "category": "dirll",
+      "categoryTitle": "드릴",
+      "manufacturer": "히타치",
+      "DateAtManufacture":1992,
+      "spot":"평택교육청",
+      "manager" : "김영택"
     },
     {
-      "equipId": 4
-    },
-    {
-      "equipId": 5
-    },
-    {
-      "equipId": 6
-    },
-    {
-      "equipId": 7
-    },
-    {
-      "equipId": 8
-    },
-    {
-      "equipId": 9
-    },
-    {
-      "equipId": 10
-    },
-    {
-      "equipId": 11
-    },
-    {
-      "equipId": 12
-    },
-    {
-      "equipId": 13
-    },
-    {
-      "equipId": 14
-    },
-    {
-      "equipId": 15
-    },
-    {
-      "equipId": 16
-    },
-    {
-      "equipId": 17
-    },
-    {
-      "equipId": 18
-    },
-    {
-      "equipId": 19
-    },
-    {
-      "equipId": 20
+      "equipId": 1,
+      "category": "grindstone",
+      "categoryTitle": "그라인더",
+      "manufacturer": "아임삭",
+      "DateAtManufacture":2003,
+      "spot":"하남백화점",
+      "manager" : "강동훈"
     }
   ]
 }
