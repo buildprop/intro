@@ -2,64 +2,64 @@
   "code": 0,
   "items": [
     {
-      "inventoryId": 1
+      "inventoryId": 1,
+      "category": "airtool",
+      "categoryTitle": "에어툴",
+      "manufacturer": "마끼다",
+      "DateAtManufacture": 2012,
+      "spot": "광화문 현장",
+      "manager": "홍길동",
+      "icon": "https://buildprop.io/dummy/photo/icon/0.png",
+      "scan": {
+        "type": "ble",
+        "typeIcon": "https://buildprop.io/dummy/photo/icon/bc_icon.png",
+        "lastScanTime": 1614174049492
+      }
     },
     {
-      "inventoryId": 2
+      "inventoryId": 2,
+      "category": "compressor",
+      "categoryTitle": "콤프레샤",
+      "manufacturer": "보쉬",
+      "DateAtManufacture": 2010,
+      "spot": "우만동",
+      "manager": "임영철",
+      "icon": "https://buildprop.io/dummy/photo/icon/1.png",
+      "scan": {
+        "type": "qr",
+        "typeIcon": "https://buildprop.io/dummy/photo/icon/qr_icon.png",
+        "lastScanTime": 1614174096946
+      }
     },
     {
-      "inventoryId": 3
+      "inventoryId": 3,
+      "category": "dirll",
+      "categoryTitle": "드릴",
+      "manufacturer": "히타치",
+      "DateAtManufacture": 1992,
+      "spot": "평택교육청",
+      "manager": "김영택",
+      "icon": "https://buildprop.io/dummy/photo/icon/2.png",
+      "scan": {
+        "type": "ble",
+        "typeIcon": "https://buildprop.io/dummy/photo/icon/bc_icon.png",
+        "lastScanTime": 1614174108309
+      }
     },
     {
-      "inventoryId": 4
-    },
-    {
-      "inventoryId": 5
-    },
-    {
-      "inventoryId": 6
-    },
-    {
-      "inventoryId": 7
-    },
-    {
-      "inventoryId": 8
-    },
-    {
-      "inventoryId": 9
-    },
-    {
-      "inventoryId": 10
-    },
-    {
-      "inventoryId": 11
-    },
-    {
-      "inventoryId": 12
-    },
-    {
-      "inventoryId": 13
-    },
-    {
-      "inventoryId": 14
-    },
-    {
-      "inventoryId": 15
-    },
-    {
-      "inventoryId": 16
-    },
-    {
-      "inventoryId": 17
-    },
-    {
-      "inventoryId": 18
-    },
-    {
-      "inventoryId": 19
-    },
-    {
-      "inventoryId": 20
+      "inventoryId": 4,
+      "category": "grindstone",
+      "categoryTitle": "그라인더",
+      "manufacturer": "아임삭",
+      "DateAtManufacture": 2003,
+      "spot": "하남백화점",
+      "manager": "강동훈",
+      "icon": "https://buildprop.io/dummy/photo/icon/3.png",
+      "scan": {
+        "type": "ble",
+        "typeIcon": "https://buildprop.io/dummy/photo/icon/qr_icon.png",
+        "lastScanTime": 1614164108309
+      }
     }
   ]
 }
