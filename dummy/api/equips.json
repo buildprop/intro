@@ -10,7 +10,7 @@
       "spot": "광화문 현장",
       "manager": "홍길동",
       "icon": "https://buildprop.io/dummy/photo/icon/eq_0.png",
-      "iconColor": "00ff00",
+      "iconColor": "f59817",
       "scan": {
         "type": "ble",
         "typeIcon": "https://buildprop.io/dummy/photo/icon/bc_icon.png",
