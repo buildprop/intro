@@ -10,6 +10,7 @@
       "spot": "광화문 현장",
       "manager": "홍길동",
       "icon": "https://buildprop.io/dummy/photo/icon/eq_0.png",
+      "iconColor": "00ff00",
       "scan": {
         "type": "ble",
         "typeIcon": "https://buildprop.io/dummy/photo/icon/bc_icon.png",
@@ -25,6 +26,7 @@
       "spot": "우만동",
       "manager": "임영철",
       "icon": "https://buildprop.io/dummy/photo/icon/eq_1.png",
+      "iconColor": "ffff00",
       "scan": {
         "type": "qr",
         "typeIcon": "https://buildprop.io/dummy/photo/icon/qr_icon.png",
@@ -40,6 +42,7 @@
       "spot": "평택교육청",
       "manager": "김영택",
       "icon": "https://buildprop.io/dummy/photo/icon/eq_2.png",
+      "iconColor": "00ffff",
       "scan": {
         "type": "ble",
         "typeIcon": "https://buildprop.io/dummy/photo/icon/bc_icon.png",
@@ -55,6 +58,7 @@
       "spot": "하남백화점",
       "manager": "강동훈",
       "icon": "https://buildprop.io/dummy/photo/icon/eq_0.png",
+      "iconColor": "ff00ff",
       "scan": {
         "type": "ble",
         "typeIcon": "https://buildprop.io/dummy/photo/icon/qr_icon.png",
