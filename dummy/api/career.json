@@ -1,7 +1,29 @@
 {
   "code": 0,
-  "header": {},
-  "items": [
+  "user": {},
+  "company": [
+    {
+      "companyId": 1
+    },
+    {
+      "companyId": 2
+    }
+  ],
+  "spots": [
+    {
+      "spotId": 1
+    },
+    {
+      "spotId": 2
+    },
+    {
+      "spotId": 3
+    },
+    {
+      "spotId": 4
+    }
+  ],
+  "careers": [
     {
       "careerId": 1
     },
