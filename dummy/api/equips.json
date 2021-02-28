@@ -9,7 +9,7 @@
       "DateAtManufacture": 2012,
       "spot": "광화문 현장",
       "manager": "홍길동",
-      "icon": "https://buildprop.io/dummy/photo/icon/0.png",
+      "icon": "https://buildprop.io/dummy/photo/icon/eq_0.png",
       "scan": {
         "type": "ble",
         "typeIcon": "https://buildprop.io/dummy/photo/icon/bc_icon.png",
@@ -24,7 +24,7 @@
       "DateAtManufacture": 2010,
       "spot": "우만동",
       "manager": "임영철",
-      "icon": "https://buildprop.io/dummy/photo/icon/1.png",
+      "icon": "https://buildprop.io/dummy/photo/icon/eq_1.png",
       "scan": {
         "type": "qr",
         "typeIcon": "https://buildprop.io/dummy/photo/icon/qr_icon.png",
@@ -39,7 +39,7 @@
       "DateAtManufacture": 1992,
       "spot": "평택교육청",
       "manager": "김영택",
-      "icon": "https://buildprop.io/dummy/photo/icon/2.png",
+      "icon": "https://buildprop.io/dummy/photo/icon/eq_2.png",
       "scan": {
         "type": "ble",
         "typeIcon": "https://buildprop.io/dummy/photo/icon/bc_icon.png",
@@ -54,7 +54,7 @@
       "DateAtManufacture": 2003,
       "spot": "하남백화점",
       "manager": "강동훈",
-      "icon": "https://buildprop.io/dummy/photo/icon/3.png",
+      "icon": "https://buildprop.io/dummy/photo/icon/eq_0.png",
       "scan": {
         "type": "ble",
         "typeIcon": "https://buildprop.io/dummy/photo/icon/qr_icon.png",
