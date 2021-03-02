@@ -46,7 +46,7 @@
       "iconColor": "f04125",
       "scan": {
         "type": "qr",
-        "lastScanTime": 1614174096946
+        "lastScanTime": 1604156400000
       },
       "parts": []
     },
@@ -62,7 +62,7 @@
       "iconColor": "45657c",
       "scan": {
         "type": "ble",
-        "lastScanTime": 1614174108309
+        "lastScanTime": 1580482800000
       },
       "parts": []
     },
