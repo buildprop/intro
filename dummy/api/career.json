@@ -4,13 +4,13 @@
   "company": [
     {
       "companyId": 1,
-      "companyTitle": "나우건설",
-      "logoImage":"https://buildprop.io/dummy/photo/icon/company_0.png"
+      "companyName": "나우건설",
+      "companyLogo":"https://buildprop.io/dummy/photo/icon/company_0.png"
     },
     {
       "companyId": 2,
-      "companyTitle": "에이제이산업개발",
-      "logoImage":"https://buildprop.io/dummy/photo/icon/company_1.png"
+      "companyName": "에이제이산업개발",
+      "companyLogo":"https://buildprop.io/dummy/photo/icon/company_1.png"
     }
   ],
   "spots": [
