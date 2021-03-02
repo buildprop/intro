@@ -31,7 +31,7 @@
           "icon": "https://buildprop.io/dummy/photo/icon/ic_part_1.png",
           "scan": {
             "type": "qr",
-            "lastScanTime": 1614174049492
+            "lastScanTime": 1612882800000
           }
         }
       ]
