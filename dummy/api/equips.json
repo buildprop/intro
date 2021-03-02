@@ -13,7 +13,7 @@
       "iconColor": "f59817",
       "scan": {
         "type": "ble",
-        "lastScanTime": 1614174049492
+        "lastScanTime": 1614664355398
       },
       "parts": [
         {
@@ -78,7 +78,7 @@
       "iconColor": "008a8c",
       "scan": {
         "type": "ble",
-        "lastScanTime": 1614164108309
+        "lastScanTime": 1614665083181
       },
       "parts": []
     }
