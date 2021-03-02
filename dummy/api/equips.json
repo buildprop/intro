@@ -13,9 +13,26 @@
       "iconColor": "f59817",
       "scan": {
         "type": "ble",
-        "typeIcon": "https://buildprop.io/dummy/photo/icon/bc_icon.png",
         "lastScanTime": 1614174049492
-      }
+      },
+      "parts": [
+        {
+          "category": "battery",
+          "categoryTitle": "배터리",
+          "scan": {
+            "type": "qr",
+            "lastScanTime": 1614174049492
+          }
+        },
+        {
+          "category": "head",
+          "categoryTitle": "해드",
+          "scan": {
+            "type": "qr",
+            "lastScanTime": 1614174049492
+          }
+        }
+      ]
     },
     {
       "equipId": 1,
@@ -29,9 +46,9 @@
       "iconColor": "f04125",
       "scan": {
         "type": "qr",
-        "typeIcon": "https://buildprop.io/dummy/photo/icon/qr_icon.png",
         "lastScanTime": 1614174096946
-      }
+      },
+      "parts": []
     },
     {
       "equipId": 1,
@@ -45,9 +62,9 @@
       "iconColor": "45657c",
       "scan": {
         "type": "ble",
-        "typeIcon": "https://buildprop.io/dummy/photo/icon/bc_icon.png",
         "lastScanTime": 1614174108309
-      }
+      },
+      "parts": []
     },
     {
       "equipId": 1,
@@ -61,9 +78,9 @@
       "iconColor": "008a8c",
       "scan": {
         "type": "ble",
-        "typeIcon": "https://buildprop.io/dummy/photo/icon/qr_icon.png",
         "lastScanTime": 1614164108309
-      }
+      },
+      "parts": []
     }
   ]
 }
