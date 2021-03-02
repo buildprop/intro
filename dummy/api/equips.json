@@ -19,6 +19,7 @@
         {
           "category": "battery",
           "categoryTitle": "배터리",
+          "icon": "https://buildprop.io/dummy/photo/icon/ic_part_0.png",
           "scan": {
             "type": "qr",
             "lastScanTime": 1614174049492
@@ -27,6 +28,7 @@
         {
           "category": "head",
           "categoryTitle": "해드",
+          "icon": "https://buildprop.io/dummy/photo/icon/ic_part_1.png",
           "scan": {
             "type": "qr",
             "lastScanTime": 1614174049492
