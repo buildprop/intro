@@ -65,16 +65,35 @@
   ],
   "careers": [
     {
-      "careerId": 1
+      "careerId": 1,
+      "date": "2021.1.30",
+      "spotName": "우만동 개인 병원",
+      "companyName": "나우 건설",
+      "task": [
+        "배선",
+        "용접"
+      ]
     },
     {
-      "careerId": 2
+      "careerId": 2,
+      "date": "2021.1.20",
+      "spotName": "우만동 개인 병원",
+      "companyName": "나우 건설",
+      "task": [
+        "기계",
+        "철골"
+      ]
     },
     {
-      "careerId": 3
-    },
-    {
-      "careerId": 4
+      "careerId": 3,
+      "date": "2021.1.4",
+      "spotName": "종합복지센터",
+      "companyName": "나우 건설",
+      "task": [
+        "배관",
+        "도장",
+        "보온"
+      ]
     }
   ]
 }
