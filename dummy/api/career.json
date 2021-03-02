@@ -5,26 +5,62 @@
     {
       "companyId": 1,
       "companyName": "나우건설",
-      "companyLogo":"https://buildprop.io/dummy/photo/icon/company_0.png"
+      "companyLogo": "https://buildprop.io/dummy/photo/icon/company_0.png"
     },
     {
       "companyId": 2,
       "companyName": "에이제이산업개발",
-      "companyLogo":"https://buildprop.io/dummy/photo/icon/company_1.png"
+      "companyLogo": "https://buildprop.io/dummy/photo/icon/company_1.png"
     }
   ],
   "spots": [
     {
-      "spotId": 1
+      "spotId": 1,
+      "company": "나우건설",
+      "spotName": "우만동 개인 병원",
+      "address": "수원시 팔달구 우만동 123-12",
+      "staff": {
+        "staffId": 1,
+        "staffName": "홍길동",
+        "staffPositionName": "소장",
+        "staffPhone": "01012341234"
+      }
     },
     {
-      "spotId": 2
+      "spotId": 2,
+      "company": "나우건설",
+      "spotName": "종합 복지 센터",
+      "address": "수원시 권선구 권선동 45-123",
+      "staff": {
+        "staffId": 2,
+        "staffName": "김영철",
+        "staffPositionName": "소장",
+        "staffPhone": "01011111111"
+      }
     },
     {
-      "spotId": 3
+      "spotId": 3,
+      "company": "에이제이산업개발",
+      "spotName": "4층 빌라",
+      "address": "서울시 강서구 허준로 123-6",
+      "staff": {
+        "staffId": 3,
+        "staffName": "이종서",
+        "staffPositionName": "반장",
+        "staffPhone": "01022222222"
+      }
     },
     {
-      "spotId": 4
+      "spotId": 4,
+      "company": "에이제이산업개발",
+      "spotName": "스타벅스",
+      "address": "서울시 강서구 목동 43-1",
+      "staff": {
+        "staffId": 4,
+        "staffName": "김재훈",
+        "staffPositionName": "소장",
+        "staffPhone": "01033334444"
+      }
     }
   ],
   "careers": [
