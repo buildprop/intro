@@ -15,16 +15,6 @@
       "spotId": 3,
       "spotTitle": "수원시 팔달구 우만동 123-12",
       "thumb":""
-    },
-    {
-      "spotId": 4,
-      "spotTitle": "부산시청",
-      "thumb":"https://buildprop.io/dummy/photo/3.png"
-    },
-    {
-      "spotId": 5,
-      "spotTitle": "갑을상사 개인 사옥",
-      "thumb":"https://buildprop.io/dummy/photo/4.png"
     }
   ]
 }
