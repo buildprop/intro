@@ -16,19 +16,17 @@
     { "manufacturerNo": 13, "color":"bd3a31", "title": "ROX기계", "logo": "https://buildprop.io/dummy/photo/equipment/manufacturer/13.png" }
   ],
   "category": [
-    { "cNo": 1 },
-    { "cNo": 2 },
-    { "cNo": 3 },
-    { "cNo": 4 },
-    { "cNo": 5 },
-    { "cNo": 6 },
-    { "cNo": 7 },
-    { "cNo": 8 },
-    { "cNo": 9 },
-    { "cNo": 10 },
-    { "cNo": 11 },
-    { "cNo": 12 },
-    { "cNo": 13 },
-    { "cNo": 14 }
-    ]
+    { "cNo": 1, "title": "전동 드릴", "icon": "https://buildprop.io/dummy/photo/icon/eq_0.png"},
+    { "cNo": 2, "title": "해머 드릴", "icon": "https://buildprop.io/dummy/photo/icon/eq_1.png" },
+    { "cNo": 3, "title": "코아 드릴", "icon": "https://buildprop.io/dummy/photo/icon/eq_2.png" },
+    { "cNo": 4, "title": "전동 드라이버", "icon": "https://buildprop.io/dummy/photo/icon/eq_0.png" },
+    { "cNo": 5, "title": "임택트 드라이버", "icon": "https://buildprop.io/dummy/photo/icon/eq_1.png" },
+    { "cNo": 6, "title": "임택트 렌치", "icon": "https://buildprop.io/dummy/photo/icon/eq_2.png" },
+    { "cNo": 7, "title": "고속절단기", "icon": "https://buildprop.io/dummy/photo/icon/eq_0.png" },
+    { "cNo": 8, "title": "체인톱", "icon": "https://buildprop.io/dummy/photo/icon/eq_1.png" },
+    { "cNo": 9, "title": "직소", "icon": "https://buildprop.io/dummy/photo/icon/eq_2.png" },
+    { "cNo": 10, "title": "그라인더", "icon": "https://buildprop.io/dummy/photo/icon/eq_0.png" },
+    { "cNo": 11, "title": "샌더", "icon": "https://buildprop.io/dummy/photo/icon/eq_1.png" },
+    { "cNo": 12, "title": "폴리셔", "icon": "https://buildprop.io/dummy/photo/icon/eq_2.png" }
+  ]
 }
