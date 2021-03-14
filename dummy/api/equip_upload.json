@@ -1,18 +1,22 @@
 {
   "code": 0,
   "manufacturer": [
-    { "mNo": 1, "mTitle": "보쉬", "mIcon": "https://buildprop.io/dummy/photo/equipment/manufacturer/1.png" },
-    { "mNo": 2, "mTitle": "블랙앤데커", "mIcon": "https://buildprop.io/dummy/photo/equipment/manufacturer/2.png" },
-    { "mNo": 3, "mTitle": "디월트", "mIcon": "https://buildprop.io/dummy/photo/equipment/manufacturer/3.png" },
-    { "mNo": 4, "mTitle": "마끼다", "mIcon": "https://buildprop.io/dummy/photo/equipment/manufacturer/4.png" },
-    { "mNo": 5, "mTitle": "LS산전", "mIcon": "https://buildprop.io/dummy/photo/equipment/manufacturer/5.png" },
-    { "mNo": 6, "mTitle": "계양전기", "mIcon": "https://buildprop.io/dummy/photo/equipment/manufacturer/6.png" },
-    { "mNo": 7, "mTitle": "AEG", "mIcon": "https://buildprop.io/dummy/photo/equipment/manufacturer/7.png" },
-    { "mNo": 8, "mTitle": "힐티", "mIcon": "https://buildprop.io/dummy/photo/equipment/manufacturer/8.png" },
-    { "mNo": 9, "mTitle": "히타치", "mIcon": "https://buildprop.io/dummy/photo/equipment/manufacturer/9.png" },
-    { "mNo": 10, "mTitle": "아임삭", "mIcon": "https://buildprop.io/dummy/photo/equipment/manufacturer/10.png" },
-    { "mNo": 11, "mTitle": "제일타카", "mIcon": "https://buildprop.io/dummy/photo/equipment/manufacturer/11.png" },
-    { "mNo": 12, "mTitle": "REXON", "mIcon": "https://buildprop.io/dummy/photo/equipment/manufacturer/12.png" },
-    { "mNo": 13, "mTitle": "ROX기계", "mIcon": "https://buildprop.io/dummy/photo/equipment/manufacturer/13.png" }
-  ]
+    { "manufacturerNo": 1, "color":"00ff00", "title": "보쉬", "logo": "https://buildprop.io/dummy/photo/equipment/manufacturer/1.png" },
+    { "manufacturerNo": 2, "color":"00ff00", "title": "블랙앤데커", "logo": "https://buildprop.io/dummy/photo/equipment/manufacturer/2.png" },
+    { "manufacturerNo": 3, "color":"00ff00", "title": "디월트", "logo": "https://buildprop.io/dummy/photo/equipment/manufacturer/3.png" },
+    { "manufacturerNo": 4, "color":"00ff00", "title": "마끼다", "logo": "https://buildprop.io/dummy/photo/equipment/manufacturer/4.png" },
+    { "manufacturerNo": 5, "color":"00ff00", "title": "LS산전", "logo": "https://buildprop.io/dummy/photo/equipment/manufacturer/5.png" },
+    { "manufacturerNo": 6, "color":"00ff00", "title": "계양전기", "logo": "https://buildprop.io/dummy/photo/equipment/manufacturer/6.png" },
+    { "manufacturerNo": 7, "color":"00ff00", "title": "AEG", "logo": "https://buildprop.io/dummy/photo/equipment/manufacturer/7.png" },
+    { "manufacturerNo": 8, "color":"00ff00", "title": "힐티", "logo": "https://buildprop.io/dummy/photo/equipment/manufacturer/8.png" },
+    { "manufacturerNo": 9, "color":"00ff00", "title": "히타치", "logo": "https://buildprop.io/dummy/photo/equipment/manufacturer/9.png" },
+    { "manufacturerNo": 10, "color":"00ff00", "title": "아임삭", "logo": "https://buildprop.io/dummy/photo/equipment/manufacturer/10.png" },
+    { "manufacturerNo": 11, "color":"00ff00", "title": "제일타카", "logo": "https://buildprop.io/dummy/photo/equipment/manufacturer/11.png" },
+    { "manufacturerNo": 12, "color":"00ff00", "title": "REXON", "logo": "https://buildprop.io/dummy/photo/equipment/manufacturer/12.png" },
+    { "manufacturerNo": 13, "color":"00ff00", "title": "ROX기계", "logo": "https://buildprop.io/dummy/photo/equipment/manufacturer/13.png" }
+  ],
+  "category": [
+    { "cNo": 1 },
+    { "cNo": 2 }
+    ]
 }
