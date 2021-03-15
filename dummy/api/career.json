@@ -20,6 +20,7 @@
   "spots": [
     {
       "spotId": 1,
+      "companyId": 1,
       "company": "나우건설",
       "spotName": "우만동 개인 병원",
       "address": "수원시 팔달구 우만동 123-12",
@@ -32,6 +33,7 @@
     },
     {
       "spotId": 2,
+      "companyId": 1,
       "company": "나우건설",
       "spotName": "종합 복지 센터",
       "address": "수원시 권선구 권선동 45-123",
@@ -44,6 +46,7 @@
     },
     {
       "spotId": 3,
+      "companyId": 2,
       "company": "에이제이산업개발",
       "spotName": "4층 빌라",
       "address": "서울시 강서구 허준로 123-6",
@@ -56,6 +59,7 @@
     },
     {
       "spotId": 4,
+      "companyId": 2,
       "company": "에이제이산업개발",
       "spotName": "스타벅스",
       "address": "서울시 강서구 목동 43-1",
