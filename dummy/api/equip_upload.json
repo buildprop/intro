@@ -25,8 +25,6 @@
     { "cNo": 7, "title": "고속절단기", "icon": "https://buildprop.io/dummy/photo/icon/eq_6.png" },
     { "cNo": 8, "title": "체인톱", "icon": "https://buildprop.io/dummy/photo/icon/eq_7.png" },
     { "cNo": 9, "title": "직소", "icon": "https://buildprop.io/dummy/photo/icon/eq_8.png" },
-    { "cNo": 10, "title": "그라인더", "icon": "https://buildprop.io/dummy/photo/icon/eq_0.png" },
-    { "cNo": 11, "title": "샌더", "icon": "https://buildprop.io/dummy/photo/icon/eq_1.png" },
-    { "cNo": 12, "title": "폴리셔", "icon": "https://buildprop.io/dummy/photo/icon/eq_2.png" }
+    { "cNo": 10, "title": "그라인더", "icon": "https://buildprop.io/dummy/photo/icon/eq_9.png" }
   ]
 }
