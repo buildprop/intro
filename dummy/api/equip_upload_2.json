@@ -67,17 +67,44 @@
     {
       "id": 1,
       "name": "에어툴",
-      "created": "2021-03-11T16:07:23.951"
+      "created": "2021-03-11T16:07:23.951",
+      "photos": [
+        {
+          "id": "ff4b3460-8282-11eb-a75e-41f59ec517be.png",
+          "url": "https://s3.ap-northeast-2.amazonaws.com/build-prop/512/ff4b3460-8282-11eb-a75e-41f59ec517be.png",
+          "smallUrl": "https://s3.ap-northeast-2.amazonaws.com/build-prop/128/ff4b3460-8282-11eb-a75e-41f59ec517be.png",
+          "middleUrl": "https://s3.ap-northeast-2.amazonaws.com/build-prop/512/ff4b3460-8282-11eb-a75e-41f59ec517be.png",
+          "largeUrl": "https://s3.ap-northeast-2.amazonaws.com/build-prop/1024/ff4b3460-8282-11eb-a75e-41f59ec517be.png"
+        }
+      ]
     },
     {
       "id": 2,
       "name": "콤프레샤",
-      "created": "2021-03-11T16:07:23.967"
+      "created": "2021-03-11T16:07:23.967",
+      "photos": [
+        {
+          "id": "ff4b3460-8282-11eb-a75e-41f59ec517be.png",
+          "url": "https://s3.ap-northeast-2.amazonaws.com/build-prop/512/ff4b3460-8282-11eb-a75e-41f59ec517be.png",
+          "smallUrl": "https://s3.ap-northeast-2.amazonaws.com/build-prop/128/ff4b3460-8282-11eb-a75e-41f59ec517be.png",
+          "middleUrl": "https://s3.ap-northeast-2.amazonaws.com/build-prop/512/ff4b3460-8282-11eb-a75e-41f59ec517be.png",
+          "largeUrl": "https://s3.ap-northeast-2.amazonaws.com/build-prop/1024/ff4b3460-8282-11eb-a75e-41f59ec517be.png"
+        }
+      ]
     },
     {
       "id": 3,
       "name": "전동드릴",
-      "created": "2021-03-11T16:07:23.977"
+      "created": "2021-03-11T16:07:23.977",
+      "photos": [
+        {
+          "id": "ff4b3460-8282-11eb-a75e-41f59ec517be.png",
+          "url": "https://s3.ap-northeast-2.amazonaws.com/build-prop/512/ff4b3460-8282-11eb-a75e-41f59ec517be.png",
+          "smallUrl": "https://s3.ap-northeast-2.amazonaws.com/build-prop/128/ff4b3460-8282-11eb-a75e-41f59ec517be.png",
+          "middleUrl": "https://s3.ap-northeast-2.amazonaws.com/build-prop/512/ff4b3460-8282-11eb-a75e-41f59ec517be.png",
+          "largeUrl": "https://s3.ap-northeast-2.amazonaws.com/build-prop/1024/ff4b3460-8282-11eb-a75e-41f59ec517be.png"
+        }
+      ]
     }
   ]
 }
