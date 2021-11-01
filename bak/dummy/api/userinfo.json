@@ -1,0 +1,35 @@
+{
+    "info": {
+        "username": "김용호",
+        "phone":"01088435580",
+        "created":"2021-06-17T13:01:23.000",
+        "latest":"2021-06-17T13:01:22.944",
+        "photos":[
+            {
+                "url":"https://s3.ap-northeast-2.amazonaws.com/build-prop/users/512/0159d030-361c-11ec-8a53-49930940f7c1.png"
+            }
+        ]
+    },   
+    "company": [
+            {
+            "companyId": 1,
+            "companyName": "나우건설",
+            "companyLogo": "https://buildprop.io/dummy/photo/icon/company_0.png"
+            },
+            {
+            "companyId": 2,
+            "companyName": "에이제이산업개발",
+            "companyLogo": "https://buildprop.io/dummy/photo/icon/company_1.png"
+            }  
+    ],   
+    "site": [
+        {"id":"1", "address":"서울 금천구 남부순환로120길 23", "name":"구로", "activated":"2021-06-15T22:37:50.000", "siteTypeDisplayName":"사무실"},
+        {"id":"2", "address":"경기도 하남시 창우동 521", "name":"하남", "activated":"2021-06-15T22:37:50.000", "siteTypeDisplayName":"사무실"},
+        {"id":"3", "address":"경기도 수원시 팔달구 우만동 29", "name":"수원", "activated":"2021-06-15T22:37:50.000", "siteTypeDisplayName":"사무실"},
+        {"id":"4", "address":"서울 금천구 남부순환로120길 23", "name":"구로", "activated":"2021-06-15T22:37:50.000", "siteTypeDisplayName":"사무실"},
+        {"id":"5", "address":"서울 금천구 남부순환로120길 23", "name":"구로", "activated":"2021-06-15T22:37:50.000", "siteTypeDisplayName":"사무실"},
+        {"id":"6", "address":"서울 금천구 남부순환로120길 23", "name":"구로", "activated":"2021-06-15T22:37:50.000", "siteTypeDisplayName":"사무실"},
+        {"id":"7", "address":"서울 금천구 남부순환로120길 23", "name":"구로", "activated":"2021-06-15T22:37:50.000", "siteTypeDisplayName":"사무실"}
+    ],   
+    "attendance": []
+}
