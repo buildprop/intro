@@ -1,7 +1,7 @@
 {
     "info": {
-        "username": "오영석",
-        "phone":"01099213985",
+        "username": "서원우",
+        "phone":"01049156991",
         "created":"2021-06-17T13:01:23.000",
         "latest":"2021-06-17T13:01:22.944",
         "photos":[
@@ -13,12 +13,12 @@
     "company": [
             {
             "companyId": 1,
-            "companyName": "영석건설",
+            "companyName": "원우건설",
             "companyLogo": "https://buildprop.io/dummy/photo/icon/company_0.png"
             },
             {
             "companyId": 2,
-            "companyName": "양지산업개발",
+            "companyName": "오남산업개발",
             "companyLogo": "https://buildprop.io/dummy/photo/icon/company_1.png"
             }  
     ],   
