@@ -1,4 +1,6 @@
-[
-  "arn:aws:sns:ap-northeast-2:819935380357:endpoint/GCM/dev_build_props/4d6b0671-4dca-3fef-97b5-a26e3adddb14",
-  "arn:aws:sns:ap-northeast-2:819935380357:endpoint/GCM/dev_build_props/4d6b0671-4dca-3fef-97b5-a26e3adddb14"
-]
+{
+  "arns": [
+    "arn:aws:sns:ap-northeast-2:819935380357:endpoint/GCM/dev_build_props/4d6b0671-4dca-3fef-97b5-a26e3adddb14",
+    "arn:aws:sns:ap-northeast-2:819935380357:endpoint/GCM/dev_build_props/4d6b0671-4dca-3fef-97b5-a26e3adddb14"
+  ]
+}
