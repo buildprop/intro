@@ -1,0 +1,3368 @@
+{
+	"code": 0,
+	"message": "success",
+	"result": {
+		"items": [
+			{
+				"equipmentCategory": {
+					"id": 19,
+					"name": "투광기",
+					"photos": [
+						{
+							"id": "74136512-d265-11eb-b4d7-65f00f0be67a.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/74136512-d265-11eb-b4d7-65f00f0be67a.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/74136512-d265-11eb-b4d7-65f00f0be67a.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/74136512-d265-11eb-b4d7-65f00f0be67a.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/74136512-d265-11eb-b4d7-65f00f0be67a.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:42:07.215",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 1,
+					"name": "기타",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.888",
+					"isHidden": true
+				},
+				"id": 19,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 19,
+				"manufacturerId": 1,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "투광기",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "52f3eb9c-dce9-11eb-92fd-7d0aa84f7db1.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/52f3eb9c-dce9-11eb-92fd-7d0aa84f7db1.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/52f3eb9c-dce9-11eb-92fd-7d0aa84f7db1.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/52f3eb9c-dce9-11eb-92fd-7d0aa84f7db1.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/52f3eb9c-dce9-11eb-92fd-7d0aa84f7db1.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T02:00:27.548",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 19,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 19,
+							"manufacturerId": 1,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "투광기",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "52f3eb9c-dce9-11eb-92fd-7d0aa84f7db1.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/52f3eb9c-dce9-11eb-92fd-7d0aa84f7db1.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/52f3eb9c-dce9-11eb-92fd-7d0aa84f7db1.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/52f3eb9c-dce9-11eb-92fd-7d0aa84f7db1.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/52f3eb9c-dce9-11eb-92fd-7d0aa84f7db1.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T02:00:27.548",
+							"parts": [],
+							"site": null
+						},
+						"id": 19,
+						"partCategoryId": 1,
+						"stickerId": 16,
+						"created": "2021-07-05T02:55:43.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 16,
+							"name": "006-0008",
+							"macAddress": "ac233fa7e52e",
+							"created": "2021-07-05T01:36:12.953"
+						},
+						"equipmentPartHistory": null,
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 18,
+					"name": "용접기",
+					"photos": [
+						{
+							"id": "1e374301-d265-11eb-b4d7-2f261201be60.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/1e374301-d265-11eb-b4d7-2f261201be60.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/1e374301-d265-11eb-b4d7-2f261201be60.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/1e374301-d265-11eb-b4d7-2f261201be60.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/1e374301-d265-11eb-b4d7-2f261201be60.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:42:07.208",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 3,
+					"name": "보쉬",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.928",
+					"isHidden": false
+				},
+				"id": 20,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 18,
+				"manufacturerId": 3,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "용접기",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "bdfb365d-dce9-11eb-92fd-cfc0c8438f93.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/bdfb365d-dce9-11eb-92fd-cfc0c8438f93.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/bdfb365d-dce9-11eb-92fd-cfc0c8438f93.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/bdfb365d-dce9-11eb-92fd-cfc0c8438f93.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/bdfb365d-dce9-11eb-92fd-cfc0c8438f93.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "bf97a84e-dce9-11eb-92fd-c9da3076e4fc.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/bf97a84e-dce9-11eb-92fd-c9da3076e4fc.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/bf97a84e-dce9-11eb-92fd-c9da3076e4fc.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/bf97a84e-dce9-11eb-92fd-c9da3076e4fc.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/bf97a84e-dce9-11eb-92fd-c9da3076e4fc.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T02:03:29.297",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 20,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 18,
+							"manufacturerId": 3,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "용접기",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "bdfb365d-dce9-11eb-92fd-cfc0c8438f93.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/bdfb365d-dce9-11eb-92fd-cfc0c8438f93.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/bdfb365d-dce9-11eb-92fd-cfc0c8438f93.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/bdfb365d-dce9-11eb-92fd-cfc0c8438f93.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/bdfb365d-dce9-11eb-92fd-cfc0c8438f93.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "bf97a84e-dce9-11eb-92fd-c9da3076e4fc.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/bf97a84e-dce9-11eb-92fd-c9da3076e4fc.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/bf97a84e-dce9-11eb-92fd-c9da3076e4fc.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/bf97a84e-dce9-11eb-92fd-c9da3076e4fc.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/bf97a84e-dce9-11eb-92fd-c9da3076e4fc.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T02:03:29.297",
+							"parts": [],
+							"site": null
+						},
+						"id": 20,
+						"partCategoryId": 1,
+						"stickerId": 17,
+						"created": "2021-07-05T02:56:12.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 17,
+							"name": "006-0009",
+							"macAddress": "ac233f6ff52a",
+							"created": "2021-07-05T01:36:12.967"
+						},
+						"equipmentPartHistory": {
+							"user": {
+								"id": 8,
+								"username": "숸병희",
+								"phone": "01056769360",
+								"country": "KR",
+								"photos": [
+									{
+										"id": "8194ab39-df6f-11eb-a291-a5279a9a28aa.jpg",
+										"bucket": "odigo-production",
+										"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/8194ab39-df6f-11eb-a291-a5279a9a28aa.jpg",
+										"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/8194ab39-df6f-11eb-a291-a5279a9a28aa.jpg",
+										"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/128/8194ab39-df6f-11eb-a291-a5279a9a28aa.jpg",
+										"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/1024/8194ab39-df6f-11eb-a291-a5279a9a28aa.jpg",
+										"prefix": "users"
+									}
+								],
+								"latest": "2021-06-17T13:01:23.000",
+								"created": "2021-06-17T13:01:22.944",
+								"companies": [],
+								"sites": [],
+								"attendances": []
+							},
+							"id": 13425,
+							"equipmentId": 20,
+							"partCategoryId": 1,
+							"userId": 8,
+							"partStickerType": "tag",
+							"partStickerTypeDisplayName": "태그",
+							"address": "서울특별시 강서구 가양동",
+							"latitude": 37.56071,
+							"longitude": 126.838234,
+							"background": true,
+							"created": "2021-12-09T07:08:01.941"
+						},
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 9,
+					"name": "그라인더",
+					"photos": [
+						{
+							"id": "e0476568-d264-11eb-b4d7-5597f88772cf.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/e0476568-d264-11eb-b4d7-5597f88772cf.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/e0476568-d264-11eb-b4d7-5597f88772cf.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/e0476568-d264-11eb-b4d7-5597f88772cf.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/e0476568-d264-11eb-b4d7-5597f88772cf.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:41:00.482",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 3,
+					"name": "보쉬",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.928",
+					"isHidden": false
+				},
+				"id": 15,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 9,
+				"manufacturerId": 3,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "그라인더",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "662387ce-dce8-11eb-92fd-fb226dd9f039.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/662387ce-dce8-11eb-92fd-fb226dd9f039.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/662387ce-dce8-11eb-92fd-fb226dd9f039.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/662387ce-dce8-11eb-92fd-fb226dd9f039.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/662387ce-dce8-11eb-92fd-fb226dd9f039.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "698ffecf-dce8-11eb-92fd-a5f93e8d2679.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/698ffecf-dce8-11eb-92fd-a5f93e8d2679.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/698ffecf-dce8-11eb-92fd-a5f93e8d2679.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/698ffecf-dce8-11eb-92fd-a5f93e8d2679.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/698ffecf-dce8-11eb-92fd-a5f93e8d2679.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T01:53:57.488",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 15,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 9,
+							"manufacturerId": 3,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "그라인더",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "662387ce-dce8-11eb-92fd-fb226dd9f039.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/662387ce-dce8-11eb-92fd-fb226dd9f039.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/662387ce-dce8-11eb-92fd-fb226dd9f039.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/662387ce-dce8-11eb-92fd-fb226dd9f039.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/662387ce-dce8-11eb-92fd-fb226dd9f039.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "698ffecf-dce8-11eb-92fd-a5f93e8d2679.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/698ffecf-dce8-11eb-92fd-a5f93e8d2679.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/698ffecf-dce8-11eb-92fd-a5f93e8d2679.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/698ffecf-dce8-11eb-92fd-a5f93e8d2679.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/698ffecf-dce8-11eb-92fd-a5f93e8d2679.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T01:53:57.488",
+							"parts": [],
+							"site": null
+						},
+						"id": 15,
+						"partCategoryId": 1,
+						"stickerId": 11,
+						"created": "2021-07-05T02:51:40.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 11,
+							"name": "006-0003",
+							"macAddress": "ac233fa7e52b",
+							"created": "2021-07-05T01:36:12.893"
+						},
+						"equipmentPartHistory": {
+							"user": {
+								"id": 8,
+								"username": "숸병희",
+								"phone": "01056769360",
+								"country": "KR",
+								"photos": [
+									{
+										"id": "8194ab39-df6f-11eb-a291-a5279a9a28aa.jpg",
+										"bucket": "odigo-production",
+										"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/8194ab39-df6f-11eb-a291-a5279a9a28aa.jpg",
+										"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/8194ab39-df6f-11eb-a291-a5279a9a28aa.jpg",
+										"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/128/8194ab39-df6f-11eb-a291-a5279a9a28aa.jpg",
+										"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/1024/8194ab39-df6f-11eb-a291-a5279a9a28aa.jpg",
+										"prefix": "users"
+									}
+								],
+								"latest": "2021-06-17T13:01:23.000",
+								"created": "2021-06-17T13:01:22.944",
+								"companies": [],
+								"sites": [],
+								"attendances": []
+							},
+							"id": 9945,
+							"equipmentId": 15,
+							"partCategoryId": 1,
+							"userId": 8,
+							"partStickerType": "tag",
+							"partStickerTypeDisplayName": "태그",
+							"address": "서울특별시 강서구 가양동",
+							"latitude": 37.561077,
+							"longitude": 126.8373,
+							"background": true,
+							"created": "2021-09-13T16:48:18.398"
+						},
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 24,
+					"name": "배풍기",
+					"photos": [
+						{
+							"id": "4bd80f0a-d266-11eb-b4d7-f74891cdec71.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/4bd80f0a-d266-11eb-b4d7-f74891cdec71.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/4bd80f0a-d266-11eb-b4d7-f74891cdec71.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/4bd80f0a-d266-11eb-b4d7-f74891cdec71.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/4bd80f0a-d266-11eb-b4d7-f74891cdec71.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:42:07.255",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 1,
+					"name": "기타",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.888",
+					"isHidden": true
+				},
+				"id": 24,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 24,
+				"manufacturerId": 1,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "배풍기",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "cc3a68d5-dcea-11eb-92fd-c39d3d1d815c.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/cc3a68d5-dcea-11eb-92fd-c39d3d1d815c.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/cc3a68d5-dcea-11eb-92fd-c39d3d1d815c.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/cc3a68d5-dcea-11eb-92fd-c39d3d1d815c.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/cc3a68d5-dcea-11eb-92fd-c39d3d1d815c.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "cd9d5436-dcea-11eb-92fd-71b3fb18ac2a.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/cd9d5436-dcea-11eb-92fd-71b3fb18ac2a.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/cd9d5436-dcea-11eb-92fd-71b3fb18ac2a.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/cd9d5436-dcea-11eb-92fd-71b3fb18ac2a.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/cd9d5436-dcea-11eb-92fd-71b3fb18ac2a.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "cefbabb7-dcea-11eb-92fd-ad5ee599ba04.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/cefbabb7-dcea-11eb-92fd-ad5ee599ba04.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/cefbabb7-dcea-11eb-92fd-ad5ee599ba04.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/cefbabb7-dcea-11eb-92fd-ad5ee599ba04.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/cefbabb7-dcea-11eb-92fd-ad5ee599ba04.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T02:11:04.014",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 24,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 24,
+							"manufacturerId": 1,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "배풍기",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "cc3a68d5-dcea-11eb-92fd-c39d3d1d815c.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/cc3a68d5-dcea-11eb-92fd-c39d3d1d815c.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/cc3a68d5-dcea-11eb-92fd-c39d3d1d815c.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/cc3a68d5-dcea-11eb-92fd-c39d3d1d815c.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/cc3a68d5-dcea-11eb-92fd-c39d3d1d815c.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "cd9d5436-dcea-11eb-92fd-71b3fb18ac2a.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/cd9d5436-dcea-11eb-92fd-71b3fb18ac2a.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/cd9d5436-dcea-11eb-92fd-71b3fb18ac2a.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/cd9d5436-dcea-11eb-92fd-71b3fb18ac2a.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/cd9d5436-dcea-11eb-92fd-71b3fb18ac2a.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "cefbabb7-dcea-11eb-92fd-ad5ee599ba04.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/cefbabb7-dcea-11eb-92fd-ad5ee599ba04.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/cefbabb7-dcea-11eb-92fd-ad5ee599ba04.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/cefbabb7-dcea-11eb-92fd-ad5ee599ba04.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/cefbabb7-dcea-11eb-92fd-ad5ee599ba04.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T02:11:04.014",
+							"parts": [],
+							"site": null
+						},
+						"id": 24,
+						"partCategoryId": 1,
+						"stickerId": 21,
+						"created": "2021-07-05T03:01:44.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 21,
+							"name": "006-0013",
+							"macAddress": "ac233f6ff527",
+							"created": "2021-07-05T01:37:12.312"
+						},
+						"equipmentPartHistory": {
+							"user": {
+								"id": 5,
+								"username": "윤관호 ",
+								"phone": "01092292467",
+								"country": "KR",
+								"photos": [
+									{
+										"id": "f4911448-df6d-11eb-a291-73ab5f0a99b7.jpg",
+										"bucket": "odigo-production",
+										"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/f4911448-df6d-11eb-a291-73ab5f0a99b7.jpg",
+										"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/f4911448-df6d-11eb-a291-73ab5f0a99b7.jpg",
+										"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/128/f4911448-df6d-11eb-a291-73ab5f0a99b7.jpg",
+										"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/1024/f4911448-df6d-11eb-a291-73ab5f0a99b7.jpg",
+										"prefix": "users"
+									}
+								],
+								"latest": "2021-06-16T15:21:10.000",
+								"created": "2021-06-16T15:21:10.466",
+								"companies": [],
+								"sites": [],
+								"attendances": []
+							},
+							"id": 12765,
+							"equipmentId": 24,
+							"partCategoryId": 1,
+							"userId": 5,
+							"partStickerType": "tag",
+							"partStickerTypeDisplayName": "태그",
+							"address": "서울특별시 강서구 가양동",
+							"latitude": 37.561325,
+							"longitude": 126.837204,
+							"background": true,
+							"created": "2021-11-24T06:42:21.489"
+						},
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 22,
+					"name": "파이프머신",
+					"photos": [
+						{
+							"id": "376f24e8-d266-11eb-b4d7-99509a138f2f.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/376f24e8-d266-11eb-b4d7-99509a138f2f.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/376f24e8-d266-11eb-b4d7-99509a138f2f.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/376f24e8-d266-11eb-b4d7-99509a138f2f.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/376f24e8-d266-11eb-b4d7-99509a138f2f.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:42:07.239",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 1,
+					"name": "기타",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.888",
+					"isHidden": true
+				},
+				"id": 28,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 22,
+				"manufacturerId": 1,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "파이프머신",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "d114842f-dceb-11eb-92fd-37a4f667dc7e.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/d114842f-dceb-11eb-92fd-37a4f667dc7e.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/d114842f-dceb-11eb-92fd-37a4f667dc7e.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/d114842f-dceb-11eb-92fd-37a4f667dc7e.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/d114842f-dceb-11eb-92fd-37a4f667dc7e.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "d3ca7c70-dceb-11eb-92fd-59df3e2f15cc.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/d3ca7c70-dceb-11eb-92fd-59df3e2f15cc.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/d3ca7c70-dceb-11eb-92fd-59df3e2f15cc.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/d3ca7c70-dceb-11eb-92fd-59df3e2f15cc.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/d3ca7c70-dceb-11eb-92fd-59df3e2f15cc.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "d522e081-dceb-11eb-92fd-4f326ddf9042.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/d522e081-dceb-11eb-92fd-4f326ddf9042.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/d522e081-dceb-11eb-92fd-4f326ddf9042.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/d522e081-dceb-11eb-92fd-4f326ddf9042.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/d522e081-dceb-11eb-92fd-4f326ddf9042.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T02:18:24.991",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 28,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 22,
+							"manufacturerId": 1,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "파이프머신",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "d114842f-dceb-11eb-92fd-37a4f667dc7e.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/d114842f-dceb-11eb-92fd-37a4f667dc7e.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/d114842f-dceb-11eb-92fd-37a4f667dc7e.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/d114842f-dceb-11eb-92fd-37a4f667dc7e.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/d114842f-dceb-11eb-92fd-37a4f667dc7e.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "d3ca7c70-dceb-11eb-92fd-59df3e2f15cc.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/d3ca7c70-dceb-11eb-92fd-59df3e2f15cc.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/d3ca7c70-dceb-11eb-92fd-59df3e2f15cc.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/d3ca7c70-dceb-11eb-92fd-59df3e2f15cc.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/d3ca7c70-dceb-11eb-92fd-59df3e2f15cc.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "d522e081-dceb-11eb-92fd-4f326ddf9042.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/d522e081-dceb-11eb-92fd-4f326ddf9042.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/d522e081-dceb-11eb-92fd-4f326ddf9042.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/d522e081-dceb-11eb-92fd-4f326ddf9042.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/d522e081-dceb-11eb-92fd-4f326ddf9042.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T02:18:24.991",
+							"parts": [],
+							"site": null
+						},
+						"id": 28,
+						"partCategoryId": 1,
+						"stickerId": 25,
+						"created": "2021-07-05T03:03:51.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 25,
+							"name": "006-0017",
+							"macAddress": "ac233f7555e7",
+							"created": "2021-07-05T01:37:12.368"
+						},
+						"equipmentPartHistory": {
+							"user": {
+								"id": 93,
+								"username": "안호준",
+								"phone": "01087459916",
+								"country": "kr",
+								"photos": [
+									{
+										"id": "30bf66b3-3518-11ec-9b20-bfba481c0eda.jpg",
+										"bucket": "odigo-production",
+										"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/30bf66b3-3518-11ec-9b20-bfba481c0eda.jpg",
+										"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/30bf66b3-3518-11ec-9b20-bfba481c0eda.jpg",
+										"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/128/30bf66b3-3518-11ec-9b20-bfba481c0eda.jpg",
+										"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/1024/30bf66b3-3518-11ec-9b20-bfba481c0eda.jpg",
+										"prefix": "users"
+									}
+								],
+								"latest": "2021-10-22T07:41:46.000",
+								"created": "2021-10-22T07:41:45.594",
+								"companies": [],
+								"sites": [],
+								"attendances": []
+							},
+							"id": 10923,
+							"equipmentId": 28,
+							"partCategoryId": 1,
+							"userId": 93,
+							"partStickerType": "tag",
+							"partStickerTypeDisplayName": "태그",
+							"address": "서울특별시 강서구 가양동",
+							"latitude": 37.561066,
+							"longitude": 126.83708,
+							"background": true,
+							"created": "2021-10-25T07:16:24.722"
+						},
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 22,
+					"name": "파이프머신",
+					"photos": [
+						{
+							"id": "376f24e8-d266-11eb-b4d7-99509a138f2f.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/376f24e8-d266-11eb-b4d7-99509a138f2f.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/376f24e8-d266-11eb-b4d7-99509a138f2f.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/376f24e8-d266-11eb-b4d7-99509a138f2f.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/376f24e8-d266-11eb-b4d7-99509a138f2f.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:42:07.239",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 20,
+					"name": "ROLEX",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-07-05T02:15:05.578",
+					"isHidden": false
+				},
+				"id": 26,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 22,
+				"manufacturerId": 20,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "파이프머신",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "70b271aa-dceb-11eb-92fd-4b5d1ad13411.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/70b271aa-dceb-11eb-92fd-4b5d1ad13411.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/70b271aa-dceb-11eb-92fd-4b5d1ad13411.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/70b271aa-dceb-11eb-92fd-4b5d1ad13411.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/70b271aa-dceb-11eb-92fd-4b5d1ad13411.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "7207534b-dceb-11eb-92fd-eb946fc0ef9f.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/7207534b-dceb-11eb-92fd-eb946fc0ef9f.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/7207534b-dceb-11eb-92fd-eb946fc0ef9f.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/7207534b-dceb-11eb-92fd-eb946fc0ef9f.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/7207534b-dceb-11eb-92fd-eb946fc0ef9f.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T02:15:43.793",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 26,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 22,
+							"manufacturerId": 20,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "파이프머신",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "70b271aa-dceb-11eb-92fd-4b5d1ad13411.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/70b271aa-dceb-11eb-92fd-4b5d1ad13411.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/70b271aa-dceb-11eb-92fd-4b5d1ad13411.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/70b271aa-dceb-11eb-92fd-4b5d1ad13411.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/70b271aa-dceb-11eb-92fd-4b5d1ad13411.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "7207534b-dceb-11eb-92fd-eb946fc0ef9f.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/7207534b-dceb-11eb-92fd-eb946fc0ef9f.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/7207534b-dceb-11eb-92fd-eb946fc0ef9f.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/7207534b-dceb-11eb-92fd-eb946fc0ef9f.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/7207534b-dceb-11eb-92fd-eb946fc0ef9f.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T02:15:43.793",
+							"parts": [],
+							"site": null
+						},
+						"id": 26,
+						"partCategoryId": 1,
+						"stickerId": 23,
+						"created": "2021-07-05T03:02:51.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 23,
+							"name": "006-0015",
+							"macAddress": "ac233f6ff4a0",
+							"created": "2021-07-05T01:37:12.342"
+						},
+						"equipmentPartHistory": {
+							"user": {
+								"id": 65,
+								"username": "손임국",
+								"phone": "01056589215",
+								"country": "KR",
+								"photos": [
+									{
+										"id": "43a5f3bb-0acf-11ec-8eeb-2b743cec702a.jpg",
+										"bucket": "odigo-production",
+										"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/43a5f3bb-0acf-11ec-8eeb-2b743cec702a.jpg",
+										"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/43a5f3bb-0acf-11ec-8eeb-2b743cec702a.jpg",
+										"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/128/43a5f3bb-0acf-11ec-8eeb-2b743cec702a.jpg",
+										"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/1024/43a5f3bb-0acf-11ec-8eeb-2b743cec702a.jpg",
+										"prefix": "users"
+									}
+								],
+								"latest": "2021-08-31T12:59:53.000",
+								"created": "2021-08-31T12:59:53.401",
+								"companies": [],
+								"sites": [],
+								"attendances": []
+							},
+							"id": 13092,
+							"equipmentId": 26,
+							"partCategoryId": 1,
+							"userId": 65,
+							"partStickerType": "tag",
+							"partStickerTypeDisplayName": "태그",
+							"address": "서울특별시 강서구 가양1동",
+							"latitude": 37.561115,
+							"longitude": 126.83765,
+							"background": true,
+							"created": "2021-11-29T17:09:41.476"
+						},
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 15,
+					"name": "드릴머신",
+					"photos": [
+						{
+							"id": "0aff85de-d265-11eb-b4d7-59274a4e690d.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/0aff85de-d265-11eb-b4d7-59274a4e690d.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/0aff85de-d265-11eb-b4d7-59274a4e690d.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/0aff85de-d265-11eb-b4d7-59274a4e690d.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/0aff85de-d265-11eb-b4d7-59274a4e690d.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:42:07.181",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 1,
+					"name": "기타",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.888",
+					"isHidden": true
+				},
+				"id": 29,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 15,
+				"manufacturerId": 1,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "드릴머신",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "38ed9972-dcec-11eb-92fd-d76084c37656.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/38ed9972-dcec-11eb-92fd-d76084c37656.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/38ed9972-dcec-11eb-92fd-d76084c37656.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/38ed9972-dcec-11eb-92fd-d76084c37656.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/38ed9972-dcec-11eb-92fd-d76084c37656.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "3a79dec3-dcec-11eb-92fd-b5157e766de1.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3a79dec3-dcec-11eb-92fd-b5157e766de1.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3a79dec3-dcec-11eb-92fd-b5157e766de1.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3a79dec3-dcec-11eb-92fd-b5157e766de1.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3a79dec3-dcec-11eb-92fd-b5157e766de1.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "3c23e544-dcec-11eb-92fd-bbc27ad2e40f.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3c23e544-dcec-11eb-92fd-bbc27ad2e40f.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3c23e544-dcec-11eb-92fd-bbc27ad2e40f.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3c23e544-dcec-11eb-92fd-bbc27ad2e40f.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3c23e544-dcec-11eb-92fd-bbc27ad2e40f.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T02:21:18.870",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 29,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 15,
+							"manufacturerId": 1,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "드릴머신",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "38ed9972-dcec-11eb-92fd-d76084c37656.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/38ed9972-dcec-11eb-92fd-d76084c37656.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/38ed9972-dcec-11eb-92fd-d76084c37656.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/38ed9972-dcec-11eb-92fd-d76084c37656.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/38ed9972-dcec-11eb-92fd-d76084c37656.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "3a79dec3-dcec-11eb-92fd-b5157e766de1.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3a79dec3-dcec-11eb-92fd-b5157e766de1.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3a79dec3-dcec-11eb-92fd-b5157e766de1.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3a79dec3-dcec-11eb-92fd-b5157e766de1.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3a79dec3-dcec-11eb-92fd-b5157e766de1.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "3c23e544-dcec-11eb-92fd-bbc27ad2e40f.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3c23e544-dcec-11eb-92fd-bbc27ad2e40f.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3c23e544-dcec-11eb-92fd-bbc27ad2e40f.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3c23e544-dcec-11eb-92fd-bbc27ad2e40f.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3c23e544-dcec-11eb-92fd-bbc27ad2e40f.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T02:21:18.870",
+							"parts": [],
+							"site": null
+						},
+						"id": 29,
+						"partCategoryId": 1,
+						"stickerId": 26,
+						"created": "2021-07-05T03:04:31.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 26,
+							"name": "006-0018",
+							"macAddress": "ac233f6ff52b",
+							"created": "2021-07-05T01:37:12.380"
+						},
+						"equipmentPartHistory": {
+							"user": {
+								"id": 89,
+								"username": "김철수",
+								"phone": "01042452372",
+								"country": "kr",
+								"photos": [
+									{
+										"id": "2e4bea98-30ba-11ec-946e-79ce5c422ee9.jpg",
+										"bucket": "odigo-production",
+										"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/2e4bea98-30ba-11ec-946e-79ce5c422ee9.jpg",
+										"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/2e4bea98-30ba-11ec-946e-79ce5c422ee9.jpg",
+										"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/128/2e4bea98-30ba-11ec-946e-79ce5c422ee9.jpg",
+										"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/1024/2e4bea98-30ba-11ec-946e-79ce5c422ee9.jpg",
+										"prefix": "users"
+									}
+								],
+								"latest": "2021-11-26T14:06:08.000",
+								"created": "2021-10-15T12:09:14.644",
+								"companies": [],
+								"sites": [],
+								"attendances": []
+							},
+							"id": 12876,
+							"equipmentId": 29,
+							"partCategoryId": 1,
+							"userId": 89,
+							"partStickerType": "tag",
+							"partStickerTypeDisplayName": "태그",
+							"address": "",
+							"latitude": 37.246334,
+							"longitude": 127.01305,
+							"background": false,
+							"created": "2021-11-25T11:22:57.397"
+						},
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 24,
+					"name": "배풍기",
+					"photos": [
+						{
+							"id": "4bd80f0a-d266-11eb-b4d7-f74891cdec71.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/4bd80f0a-d266-11eb-b4d7-f74891cdec71.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/4bd80f0a-d266-11eb-b4d7-f74891cdec71.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/4bd80f0a-d266-11eb-b4d7-f74891cdec71.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/4bd80f0a-d266-11eb-b4d7-f74891cdec71.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:42:07.255",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 1,
+					"name": "기타",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.888",
+					"isHidden": true
+				},
+				"id": 30,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 24,
+				"manufacturerId": 1,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "배풍기",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "6bee3d75-dcec-11eb-92fd-4348ed717bf3.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/6bee3d75-dcec-11eb-92fd-4348ed717bf3.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/6bee3d75-dcec-11eb-92fd-4348ed717bf3.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/6bee3d75-dcec-11eb-92fd-4348ed717bf3.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/6bee3d75-dcec-11eb-92fd-4348ed717bf3.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "6d6ca016-dcec-11eb-92fd-239b389449c6.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/6d6ca016-dcec-11eb-92fd-239b389449c6.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/6d6ca016-dcec-11eb-92fd-239b389449c6.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/6d6ca016-dcec-11eb-92fd-239b389449c6.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/6d6ca016-dcec-11eb-92fd-239b389449c6.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T02:22:39.088",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 30,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 24,
+							"manufacturerId": 1,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "배풍기",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "6bee3d75-dcec-11eb-92fd-4348ed717bf3.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/6bee3d75-dcec-11eb-92fd-4348ed717bf3.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/6bee3d75-dcec-11eb-92fd-4348ed717bf3.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/6bee3d75-dcec-11eb-92fd-4348ed717bf3.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/6bee3d75-dcec-11eb-92fd-4348ed717bf3.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "6d6ca016-dcec-11eb-92fd-239b389449c6.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/6d6ca016-dcec-11eb-92fd-239b389449c6.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/6d6ca016-dcec-11eb-92fd-239b389449c6.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/6d6ca016-dcec-11eb-92fd-239b389449c6.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/6d6ca016-dcec-11eb-92fd-239b389449c6.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T02:22:39.088",
+							"parts": [],
+							"site": null
+						},
+						"id": 30,
+						"partCategoryId": 1,
+						"stickerId": 27,
+						"created": "2021-07-05T03:05:34.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 27,
+							"name": "006-0019",
+							"macAddress": "ac233f6fb7ba",
+							"created": "2021-07-05T01:37:57.434"
+						},
+						"equipmentPartHistory": {
+							"user": {
+								"id": 65,
+								"username": "손임국",
+								"phone": "01056589215",
+								"country": "KR",
+								"photos": [
+									{
+										"id": "43a5f3bb-0acf-11ec-8eeb-2b743cec702a.jpg",
+										"bucket": "odigo-production",
+										"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/43a5f3bb-0acf-11ec-8eeb-2b743cec702a.jpg",
+										"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/43a5f3bb-0acf-11ec-8eeb-2b743cec702a.jpg",
+										"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/128/43a5f3bb-0acf-11ec-8eeb-2b743cec702a.jpg",
+										"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/1024/43a5f3bb-0acf-11ec-8eeb-2b743cec702a.jpg",
+										"prefix": "users"
+									}
+								],
+								"latest": "2021-08-31T12:59:53.000",
+								"created": "2021-08-31T12:59:53.401",
+								"companies": [],
+								"sites": [],
+								"attendances": []
+							},
+							"id": 12580,
+							"equipmentId": 30,
+							"partCategoryId": 1,
+							"userId": 65,
+							"partStickerType": "tag",
+							"partStickerTypeDisplayName": "태그",
+							"address": "서울특별시 강서구 가양동",
+							"latitude": 37.56071,
+							"longitude": 126.83832,
+							"background": true,
+							"created": "2021-11-17T16:49:50.311"
+						},
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 24,
+					"name": "배풍기",
+					"photos": [
+						{
+							"id": "4bd80f0a-d266-11eb-b4d7-f74891cdec71.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/4bd80f0a-d266-11eb-b4d7-f74891cdec71.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/4bd80f0a-d266-11eb-b4d7-f74891cdec71.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/4bd80f0a-d266-11eb-b4d7-f74891cdec71.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/4bd80f0a-d266-11eb-b4d7-f74891cdec71.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:42:07.255",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 1,
+					"name": "기타",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.888",
+					"isHidden": true
+				},
+				"id": 31,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 24,
+				"manufacturerId": 1,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "배풍기",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "555c3c57-dced-11eb-92fd-21bf03bcbca4.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/555c3c57-dced-11eb-92fd-21bf03bcbca4.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/555c3c57-dced-11eb-92fd-21bf03bcbca4.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/555c3c57-dced-11eb-92fd-21bf03bcbca4.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/555c3c57-dced-11eb-92fd-21bf03bcbca4.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "56cfc988-dced-11eb-92fd-c9d6671145cf.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/56cfc988-dced-11eb-92fd-c9d6671145cf.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/56cfc988-dced-11eb-92fd-c9d6671145cf.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/56cfc988-dced-11eb-92fd-c9d6671145cf.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/56cfc988-dced-11eb-92fd-c9d6671145cf.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T02:29:10.831",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 31,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 24,
+							"manufacturerId": 1,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "배풍기",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "555c3c57-dced-11eb-92fd-21bf03bcbca4.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/555c3c57-dced-11eb-92fd-21bf03bcbca4.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/555c3c57-dced-11eb-92fd-21bf03bcbca4.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/555c3c57-dced-11eb-92fd-21bf03bcbca4.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/555c3c57-dced-11eb-92fd-21bf03bcbca4.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "56cfc988-dced-11eb-92fd-c9d6671145cf.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/56cfc988-dced-11eb-92fd-c9d6671145cf.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/56cfc988-dced-11eb-92fd-c9d6671145cf.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/56cfc988-dced-11eb-92fd-c9d6671145cf.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/56cfc988-dced-11eb-92fd-c9d6671145cf.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T02:29:10.831",
+							"parts": [],
+							"site": null
+						},
+						"id": 31,
+						"partCategoryId": 1,
+						"stickerId": 28,
+						"created": "2021-07-05T03:06:04.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 28,
+							"name": "006-0020",
+							"macAddress": "ac233f6fb7bb",
+							"created": "2021-07-05T01:37:57.446"
+						},
+						"equipmentPartHistory": null,
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 1,
+					"name": "기타",
+					"photos": [
+						{
+							"id": "a44b2c11-d9c0-11eb-92fd-df1e1c011220.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/a44b2c11-d9c0-11eb-92fd-df1e1c011220.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/a44b2c11-d9c0-11eb-92fd-df1e1c011220.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/a44b2c11-d9c0-11eb-92fd-df1e1c011220.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/a44b2c11-d9c0-11eb-92fd-df1e1c011220.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:40:43.243",
+					"isHidden": true
+				},
+				"equipmentManufacturer": {
+					"id": 1,
+					"name": "기타",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.888",
+					"isHidden": true
+				},
+				"id": 34,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 1,
+				"manufacturerId": 1,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "SU파이프절단기",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "baf2b49d-dced-11eb-92fd-798f0a3897e7.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/baf2b49d-dced-11eb-92fd-798f0a3897e7.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/baf2b49d-dced-11eb-92fd-798f0a3897e7.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/baf2b49d-dced-11eb-92fd-798f0a3897e7.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/baf2b49d-dced-11eb-92fd-798f0a3897e7.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "bc65094e-dced-11eb-92fd-1120e8439ccf.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/bc65094e-dced-11eb-92fd-1120e8439ccf.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/bc65094e-dced-11eb-92fd-1120e8439ccf.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/bc65094e-dced-11eb-92fd-1120e8439ccf.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/bc65094e-dced-11eb-92fd-1120e8439ccf.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T02:32:02.790",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 34,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 1,
+							"manufacturerId": 1,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "SU파이프절단기",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "baf2b49d-dced-11eb-92fd-798f0a3897e7.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/baf2b49d-dced-11eb-92fd-798f0a3897e7.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/baf2b49d-dced-11eb-92fd-798f0a3897e7.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/baf2b49d-dced-11eb-92fd-798f0a3897e7.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/baf2b49d-dced-11eb-92fd-798f0a3897e7.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "bc65094e-dced-11eb-92fd-1120e8439ccf.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/bc65094e-dced-11eb-92fd-1120e8439ccf.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/bc65094e-dced-11eb-92fd-1120e8439ccf.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/bc65094e-dced-11eb-92fd-1120e8439ccf.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/bc65094e-dced-11eb-92fd-1120e8439ccf.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T02:32:02.790",
+							"parts": [],
+							"site": null
+						},
+						"id": 34,
+						"partCategoryId": 1,
+						"stickerId": 31,
+						"created": "2021-07-05T03:09:26.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 31,
+							"name": "006-0023",
+							"macAddress": "ac233f6fb7ca",
+							"created": "2021-07-05T01:37:57.666"
+						},
+						"equipmentPartHistory": {
+							"user": {
+								"id": 91,
+								"username": "김영택",
+								"phone": "01076742331",
+								"country": "kr",
+								"photos": [
+									{
+										"id": "5d3b7e44-3518-11ec-9b20-81520afcfffe.jpg",
+										"bucket": "odigo-production",
+										"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/5d3b7e44-3518-11ec-9b20-81520afcfffe.jpg",
+										"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/5d3b7e44-3518-11ec-9b20-81520afcfffe.jpg",
+										"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/128/5d3b7e44-3518-11ec-9b20-81520afcfffe.jpg",
+										"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/1024/5d3b7e44-3518-11ec-9b20-81520afcfffe.jpg",
+										"prefix": "users"
+									}
+								],
+								"latest": "2021-10-22T07:39:38.000",
+								"created": "2021-10-22T07:39:38.051",
+								"companies": [],
+								"sites": [],
+								"attendances": []
+							},
+							"id": 10931,
+							"equipmentId": 34,
+							"partCategoryId": 1,
+							"userId": 91,
+							"partStickerType": "tag",
+							"partStickerTypeDisplayName": "태그",
+							"address": "서울특별시 강서구 가양동",
+							"latitude": 37.561047,
+							"longitude": 126.837296,
+							"background": true,
+							"created": "2021-10-25T07:16:35.496"
+						},
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 18,
+					"name": "용접기",
+					"photos": [
+						{
+							"id": "1e374301-d265-11eb-b4d7-2f261201be60.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/1e374301-d265-11eb-b4d7-2f261201be60.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/1e374301-d265-11eb-b4d7-2f261201be60.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/1e374301-d265-11eb-b4d7-2f261201be60.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/1e374301-d265-11eb-b4d7-2f261201be60.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:42:07.208",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 1,
+					"name": "기타",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.888",
+					"isHidden": true
+				},
+				"id": 33,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 18,
+				"manufacturerId": 1,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "용접기",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "95ba33bb-dced-11eb-92fd-699cafb4d686.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/95ba33bb-dced-11eb-92fd-699cafb4d686.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/95ba33bb-dced-11eb-92fd-699cafb4d686.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/95ba33bb-dced-11eb-92fd-699cafb4d686.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/95ba33bb-dced-11eb-92fd-699cafb4d686.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "9869000c-dced-11eb-92fd-379f82e1fb07.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/9869000c-dced-11eb-92fd-379f82e1fb07.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/9869000c-dced-11eb-92fd-379f82e1fb07.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/9869000c-dced-11eb-92fd-379f82e1fb07.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/9869000c-dced-11eb-92fd-379f82e1fb07.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T02:31:01.018",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 33,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 18,
+							"manufacturerId": 1,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "용접기",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "95ba33bb-dced-11eb-92fd-699cafb4d686.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/95ba33bb-dced-11eb-92fd-699cafb4d686.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/95ba33bb-dced-11eb-92fd-699cafb4d686.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/95ba33bb-dced-11eb-92fd-699cafb4d686.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/95ba33bb-dced-11eb-92fd-699cafb4d686.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "9869000c-dced-11eb-92fd-379f82e1fb07.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/9869000c-dced-11eb-92fd-379f82e1fb07.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/9869000c-dced-11eb-92fd-379f82e1fb07.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/9869000c-dced-11eb-92fd-379f82e1fb07.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/9869000c-dced-11eb-92fd-379f82e1fb07.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T02:31:01.018",
+							"parts": [],
+							"site": null
+						},
+						"id": 33,
+						"partCategoryId": 1,
+						"stickerId": 30,
+						"created": "2021-07-05T03:08:58.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 30,
+							"name": "006-0022",
+							"macAddress": "ac233f6fb7b6",
+							"created": "2021-07-05T01:37:57.650"
+						},
+						"equipmentPartHistory": {
+							"user": {
+								"id": 89,
+								"username": "김철수",
+								"phone": "01042452372",
+								"country": "kr",
+								"photos": [
+									{
+										"id": "2e4bea98-30ba-11ec-946e-79ce5c422ee9.jpg",
+										"bucket": "odigo-production",
+										"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/2e4bea98-30ba-11ec-946e-79ce5c422ee9.jpg",
+										"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/2e4bea98-30ba-11ec-946e-79ce5c422ee9.jpg",
+										"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/128/2e4bea98-30ba-11ec-946e-79ce5c422ee9.jpg",
+										"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/1024/2e4bea98-30ba-11ec-946e-79ce5c422ee9.jpg",
+										"prefix": "users"
+									}
+								],
+								"latest": "2021-11-26T14:06:08.000",
+								"created": "2021-10-15T12:09:14.644",
+								"companies": [],
+								"sites": [],
+								"attendances": []
+							},
+							"id": 12879,
+							"equipmentId": 33,
+							"partCategoryId": 1,
+							"userId": 89,
+							"partStickerType": "tag",
+							"partStickerTypeDisplayName": "태그",
+							"address": "",
+							"latitude": 37.246334,
+							"longitude": 127.01305,
+							"background": false,
+							"created": "2021-11-25T11:23:45.451"
+						},
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 23,
+					"name": "수압기",
+					"photos": [
+						{
+							"id": "44a0fb79-d266-11eb-b4d7-f7adb45ace24.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/44a0fb79-d266-11eb-b4d7-f7adb45ace24.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/44a0fb79-d266-11eb-b4d7-f7adb45ace24.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/44a0fb79-d266-11eb-b4d7-f7adb45ace24.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/44a0fb79-d266-11eb-b4d7-f7adb45ace24.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:42:07.247",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 1,
+					"name": "기타",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.888",
+					"isHidden": true
+				},
+				"id": 35,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 23,
+				"manufacturerId": 1,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "수압기",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "f18f1cff-dced-11eb-92fd-5db9ba1c5b15.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/f18f1cff-dced-11eb-92fd-5db9ba1c5b15.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/f18f1cff-dced-11eb-92fd-5db9ba1c5b15.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/f18f1cff-dced-11eb-92fd-5db9ba1c5b15.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/f18f1cff-dced-11eb-92fd-5db9ba1c5b15.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "f44a1e50-dced-11eb-92fd-0725531ca0db.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/f44a1e50-dced-11eb-92fd-0725531ca0db.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/f44a1e50-dced-11eb-92fd-0725531ca0db.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/f44a1e50-dced-11eb-92fd-0725531ca0db.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/f44a1e50-dced-11eb-92fd-0725531ca0db.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T02:33:36.329",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 35,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 23,
+							"manufacturerId": 1,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "수압기",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "f18f1cff-dced-11eb-92fd-5db9ba1c5b15.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/f18f1cff-dced-11eb-92fd-5db9ba1c5b15.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/f18f1cff-dced-11eb-92fd-5db9ba1c5b15.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/f18f1cff-dced-11eb-92fd-5db9ba1c5b15.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/f18f1cff-dced-11eb-92fd-5db9ba1c5b15.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "f44a1e50-dced-11eb-92fd-0725531ca0db.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/f44a1e50-dced-11eb-92fd-0725531ca0db.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/f44a1e50-dced-11eb-92fd-0725531ca0db.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/f44a1e50-dced-11eb-92fd-0725531ca0db.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/f44a1e50-dced-11eb-92fd-0725531ca0db.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T02:33:36.329",
+							"parts": [],
+							"site": null
+						},
+						"id": 35,
+						"partCategoryId": 1,
+						"stickerId": 32,
+						"created": "2021-07-05T03:10:11.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 32,
+							"name": "006-0024",
+							"macAddress": "ac233f6fb7b0",
+							"created": "2021-07-05T01:37:57.728"
+						},
+						"equipmentPartHistory": {
+							"user": {
+								"id": 89,
+								"username": "김철수",
+								"phone": "01042452372",
+								"country": "kr",
+								"photos": [
+									{
+										"id": "2e4bea98-30ba-11ec-946e-79ce5c422ee9.jpg",
+										"bucket": "odigo-production",
+										"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/2e4bea98-30ba-11ec-946e-79ce5c422ee9.jpg",
+										"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/2e4bea98-30ba-11ec-946e-79ce5c422ee9.jpg",
+										"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/128/2e4bea98-30ba-11ec-946e-79ce5c422ee9.jpg",
+										"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/1024/2e4bea98-30ba-11ec-946e-79ce5c422ee9.jpg",
+										"prefix": "users"
+									}
+								],
+								"latest": "2021-11-26T14:06:08.000",
+								"created": "2021-10-15T12:09:14.644",
+								"companies": [],
+								"sites": [],
+								"attendances": []
+							},
+							"id": 12871,
+							"equipmentId": 35,
+							"partCategoryId": 1,
+							"userId": 89,
+							"partStickerType": "tag",
+							"partStickerTypeDisplayName": "태그",
+							"address": "",
+							"latitude": 37.246334,
+							"longitude": 127.01305,
+							"background": false,
+							"created": "2021-11-25T11:13:42.507"
+						},
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 2,
+					"name": "충전드릴",
+					"photos": [
+						{
+							"id": "8857cc9f-d264-11eb-b4d7-f578b8c95627.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/8857cc9f-d264-11eb-b4d7-f578b8c95627.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/8857cc9f-d264-11eb-b4d7-f578b8c95627.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/8857cc9f-d264-11eb-b4d7-f578b8c95627.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/8857cc9f-d264-11eb-b4d7-f578b8c95627.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:41:00.428",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 5,
+					"name": "힐티",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.942",
+					"isHidden": false
+				},
+				"id": 13,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 2,
+				"manufacturerId": 5,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "충전드릴",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "ee65b0f8-dce7-11eb-92fd-db9fef01e66c.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/ee65b0f8-dce7-11eb-92fd-db9fef01e66c.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/ee65b0f8-dce7-11eb-92fd-db9fef01e66c.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/ee65b0f8-dce7-11eb-92fd-db9fef01e66c.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/ee65b0f8-dce7-11eb-92fd-db9fef01e66c.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "f041c3f9-dce7-11eb-92fd-cb805c99719f.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/f041c3f9-dce7-11eb-92fd-cb805c99719f.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/f041c3f9-dce7-11eb-92fd-cb805c99719f.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/f041c3f9-dce7-11eb-92fd-cb805c99719f.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/f041c3f9-dce7-11eb-92fd-cb805c99719f.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T01:50:39.230",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 13,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 2,
+							"manufacturerId": 5,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "충전드릴",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "ee65b0f8-dce7-11eb-92fd-db9fef01e66c.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/ee65b0f8-dce7-11eb-92fd-db9fef01e66c.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/ee65b0f8-dce7-11eb-92fd-db9fef01e66c.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/ee65b0f8-dce7-11eb-92fd-db9fef01e66c.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/ee65b0f8-dce7-11eb-92fd-db9fef01e66c.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "f041c3f9-dce7-11eb-92fd-cb805c99719f.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/f041c3f9-dce7-11eb-92fd-cb805c99719f.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/f041c3f9-dce7-11eb-92fd-cb805c99719f.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/f041c3f9-dce7-11eb-92fd-cb805c99719f.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/f041c3f9-dce7-11eb-92fd-cb805c99719f.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T01:50:39.230",
+							"parts": [],
+							"site": null
+						},
+						"id": 13,
+						"partCategoryId": 1,
+						"stickerId": 9,
+						"created": "2021-07-05T02:41:18.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 9,
+							"name": "006-0001",
+							"macAddress": "ac233fa7e535",
+							"created": "2021-07-05T01:36:12.867"
+						},
+						"equipmentPartHistory": {
+							"user": {
+								"id": 26,
+								"username": "남상배",
+								"phone": "01022412671",
+								"country": "KR",
+								"photos": [
+									{
+										"id": "b4b739b3-df70-11eb-a291-472eb5c1e489.jpg",
+										"bucket": "odigo-production",
+										"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/b4b739b3-df70-11eb-a291-472eb5c1e489.jpg",
+										"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/b4b739b3-df70-11eb-a291-472eb5c1e489.jpg",
+										"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/128/b4b739b3-df70-11eb-a291-472eb5c1e489.jpg",
+										"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/1024/b4b739b3-df70-11eb-a291-472eb5c1e489.jpg",
+										"prefix": "users"
+									}
+								],
+								"latest": "2021-07-07T07:28:55.000",
+								"created": "2021-07-07T07:28:54.875",
+								"companies": [],
+								"sites": [],
+								"attendances": []
+							},
+							"id": 4866,
+							"equipmentId": 13,
+							"partCategoryId": 1,
+							"userId": 26,
+							"partStickerType": "tag",
+							"partStickerTypeDisplayName": "태그",
+							"address": "서울특별시 강서구 가양1동",
+							"latitude": 37.56155,
+							"longitude": 126.83746,
+							"background": true,
+							"created": "2021-07-28T16:07:48.994"
+						},
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 1,
+					"name": "기타",
+					"photos": [
+						{
+							"id": "a44b2c11-d9c0-11eb-92fd-df1e1c011220.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/a44b2c11-d9c0-11eb-92fd-df1e1c011220.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/a44b2c11-d9c0-11eb-92fd-df1e1c011220.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/a44b2c11-d9c0-11eb-92fd-df1e1c011220.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/a44b2c11-d9c0-11eb-92fd-df1e1c011220.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:40:43.243",
+					"isHidden": true
+				},
+				"equipmentManufacturer": {
+					"id": 1,
+					"name": "기타",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.888",
+					"isHidden": true
+				},
+				"id": 36,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 1,
+				"manufacturerId": 1,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "손수레",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "1fbae061-dcee-11eb-92fd-090e333a7dfb.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/1fbae061-dcee-11eb-92fd-090e333a7dfb.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/1fbae061-dcee-11eb-92fd-090e333a7dfb.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/1fbae061-dcee-11eb-92fd-090e333a7dfb.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/1fbae061-dcee-11eb-92fd-090e333a7dfb.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "211bcff2-dcee-11eb-92fd-5f47898d271e.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/211bcff2-dcee-11eb-92fd-5f47898d271e.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/211bcff2-dcee-11eb-92fd-5f47898d271e.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/211bcff2-dcee-11eb-92fd-5f47898d271e.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/211bcff2-dcee-11eb-92fd-5f47898d271e.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T02:34:51.391",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 36,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 1,
+							"manufacturerId": 1,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "손수레",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "1fbae061-dcee-11eb-92fd-090e333a7dfb.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/1fbae061-dcee-11eb-92fd-090e333a7dfb.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/1fbae061-dcee-11eb-92fd-090e333a7dfb.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/1fbae061-dcee-11eb-92fd-090e333a7dfb.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/1fbae061-dcee-11eb-92fd-090e333a7dfb.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "211bcff2-dcee-11eb-92fd-5f47898d271e.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/211bcff2-dcee-11eb-92fd-5f47898d271e.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/211bcff2-dcee-11eb-92fd-5f47898d271e.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/211bcff2-dcee-11eb-92fd-5f47898d271e.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/211bcff2-dcee-11eb-92fd-5f47898d271e.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T02:34:51.391",
+							"parts": [],
+							"site": null
+						},
+						"id": 36,
+						"partCategoryId": 1,
+						"stickerId": 34,
+						"created": "2021-07-05T03:10:37.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 34,
+							"name": "006-0026",
+							"macAddress": "ac233f6fb7ad",
+							"created": "2021-07-05T01:37:57.916"
+						},
+						"equipmentPartHistory": {
+							"user": {
+								"id": 26,
+								"username": "남상배",
+								"phone": "01022412671",
+								"country": "KR",
+								"photos": [
+									{
+										"id": "b4b739b3-df70-11eb-a291-472eb5c1e489.jpg",
+										"bucket": "odigo-production",
+										"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/b4b739b3-df70-11eb-a291-472eb5c1e489.jpg",
+										"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/b4b739b3-df70-11eb-a291-472eb5c1e489.jpg",
+										"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/128/b4b739b3-df70-11eb-a291-472eb5c1e489.jpg",
+										"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/1024/b4b739b3-df70-11eb-a291-472eb5c1e489.jpg",
+										"prefix": "users"
+									}
+								],
+								"latest": "2021-07-07T07:28:55.000",
+								"created": "2021-07-07T07:28:54.875",
+								"companies": [],
+								"sites": [],
+								"attendances": []
+							},
+							"id": 6316,
+							"equipmentId": 36,
+							"partCategoryId": 1,
+							"userId": 26,
+							"partStickerType": "tag",
+							"partStickerTypeDisplayName": "태그",
+							"address": "서울특별시 강서구 가양1동",
+							"latitude": 37.56108,
+							"longitude": 126.83769,
+							"background": true,
+							"created": "2021-08-06T07:13:38.027"
+						},
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 9,
+					"name": "그라인더",
+					"photos": [
+						{
+							"id": "e0476568-d264-11eb-b4d7-5597f88772cf.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/e0476568-d264-11eb-b4d7-5597f88772cf.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/e0476568-d264-11eb-b4d7-5597f88772cf.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/e0476568-d264-11eb-b4d7-5597f88772cf.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/e0476568-d264-11eb-b4d7-5597f88772cf.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:41:00.482",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 3,
+					"name": "보쉬",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.928",
+					"isHidden": false
+				},
+				"id": 14,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 9,
+				"manufacturerId": 3,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "그라인더",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "24c02e5a-dce8-11eb-92fd-e55d5747a02a.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/24c02e5a-dce8-11eb-92fd-e55d5747a02a.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/24c02e5a-dce8-11eb-92fd-e55d5747a02a.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/24c02e5a-dce8-11eb-92fd-e55d5747a02a.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/24c02e5a-dce8-11eb-92fd-e55d5747a02a.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "2603f8fb-dce8-11eb-92fd-5b1b8f8efb33.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/2603f8fb-dce8-11eb-92fd-5b1b8f8efb33.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/2603f8fb-dce8-11eb-92fd-5b1b8f8efb33.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/2603f8fb-dce8-11eb-92fd-5b1b8f8efb33.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/2603f8fb-dce8-11eb-92fd-5b1b8f8efb33.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T01:52:05.492",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 14,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 9,
+							"manufacturerId": 3,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "그라인더",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "24c02e5a-dce8-11eb-92fd-e55d5747a02a.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/24c02e5a-dce8-11eb-92fd-e55d5747a02a.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/24c02e5a-dce8-11eb-92fd-e55d5747a02a.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/24c02e5a-dce8-11eb-92fd-e55d5747a02a.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/24c02e5a-dce8-11eb-92fd-e55d5747a02a.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "2603f8fb-dce8-11eb-92fd-5b1b8f8efb33.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/2603f8fb-dce8-11eb-92fd-5b1b8f8efb33.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/2603f8fb-dce8-11eb-92fd-5b1b8f8efb33.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/2603f8fb-dce8-11eb-92fd-5b1b8f8efb33.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/2603f8fb-dce8-11eb-92fd-5b1b8f8efb33.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T01:52:05.492",
+							"parts": [],
+							"site": null
+						},
+						"id": 14,
+						"partCategoryId": 1,
+						"stickerId": 10,
+						"created": "2021-07-05T02:47:07.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 10,
+							"name": "006-0002",
+							"macAddress": "ac233fa7e51f",
+							"created": "2021-07-05T01:36:12.881"
+						},
+						"equipmentPartHistory": null,
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 1,
+					"name": "기타",
+					"photos": [
+						{
+							"id": "a44b2c11-d9c0-11eb-92fd-df1e1c011220.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/a44b2c11-d9c0-11eb-92fd-df1e1c011220.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/a44b2c11-d9c0-11eb-92fd-df1e1c011220.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/a44b2c11-d9c0-11eb-92fd-df1e1c011220.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/a44b2c11-d9c0-11eb-92fd-df1e1c011220.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:40:43.243",
+					"isHidden": true
+				},
+				"equipmentManufacturer": {
+					"id": 2,
+					"name": "마끼다",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.920",
+					"isHidden": false
+				},
+				"id": 25,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 1,
+				"manufacturerId": 2,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "전동브레이커",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "0fd821e8-dceb-11eb-92fd-8935d72be232.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/0fd821e8-dceb-11eb-92fd-8935d72be232.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/0fd821e8-dceb-11eb-92fd-8935d72be232.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/0fd821e8-dceb-11eb-92fd-8935d72be232.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/0fd821e8-dceb-11eb-92fd-8935d72be232.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "10f7e9c9-dceb-11eb-92fd-53b2ec26ca5f.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/10f7e9c9-dceb-11eb-92fd-53b2ec26ca5f.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/10f7e9c9-dceb-11eb-92fd-53b2ec26ca5f.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/10f7e9c9-dceb-11eb-92fd-53b2ec26ca5f.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/10f7e9c9-dceb-11eb-92fd-53b2ec26ca5f.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T02:12:57.438",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 25,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 1,
+							"manufacturerId": 2,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "전동브레이커",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "0fd821e8-dceb-11eb-92fd-8935d72be232.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/0fd821e8-dceb-11eb-92fd-8935d72be232.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/0fd821e8-dceb-11eb-92fd-8935d72be232.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/0fd821e8-dceb-11eb-92fd-8935d72be232.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/0fd821e8-dceb-11eb-92fd-8935d72be232.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "10f7e9c9-dceb-11eb-92fd-53b2ec26ca5f.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/10f7e9c9-dceb-11eb-92fd-53b2ec26ca5f.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/10f7e9c9-dceb-11eb-92fd-53b2ec26ca5f.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/10f7e9c9-dceb-11eb-92fd-53b2ec26ca5f.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/10f7e9c9-dceb-11eb-92fd-53b2ec26ca5f.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T02:12:57.438",
+							"parts": [],
+							"site": null
+						},
+						"id": 25,
+						"partCategoryId": 1,
+						"stickerId": 22,
+						"created": "2021-07-05T03:02:23.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 22,
+							"name": "006-0014",
+							"macAddress": "ac233fa7e528",
+							"created": "2021-07-05T01:37:12.326"
+						},
+						"equipmentPartHistory": {
+							"user": {
+								"id": 1,
+								"username": "이장연",
+								"phone": "01037062372",
+								"country": "KR",
+								"photos": [
+									{
+										"id": "7ece4cca-2d52-11ec-8a8a-9d27d5fb32f5.jpg",
+										"bucket": "odigo-production",
+										"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/7ece4cca-2d52-11ec-8a8a-9d27d5fb32f5.jpg",
+										"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/7ece4cca-2d52-11ec-8a8a-9d27d5fb32f5.jpg",
+										"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/128/7ece4cca-2d52-11ec-8a8a-9d27d5fb32f5.jpg",
+										"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/1024/7ece4cca-2d52-11ec-8a8a-9d27d5fb32f5.jpg",
+										"prefix": "users"
+									}
+								],
+								"latest": "2021-12-14T15:47:42.000",
+								"created": "2021-06-07T02:21:17.579",
+								"companies": [],
+								"sites": [],
+								"attendances": []
+							},
+							"id": 10708,
+							"equipmentId": 25,
+							"partCategoryId": 1,
+							"userId": 1,
+							"partStickerType": "qr",
+							"partStickerTypeDisplayName": "QR코드",
+							"address": "서울특별시 종로구",
+							"latitude": 37.578453,
+							"longitude": 37.578453,
+							"background": true,
+							"created": "2021-10-21T12:22:32.310"
+						},
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 5,
+					"name": "절단기",
+					"photos": [
+						{
+							"id": "a8a85a13-d264-11eb-b4d7-f94c051f2653.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/a8a85a13-d264-11eb-b4d7-f94c051f2653.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/a8a85a13-d264-11eb-b4d7-f94c051f2653.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/a8a85a13-d264-11eb-b4d7-f94c051f2653.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/a8a85a13-d264-11eb-b4d7-f94c051f2653.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:41:00.452",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 3,
+					"name": "보쉬",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.928",
+					"isHidden": false
+				},
+				"id": 17,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 5,
+				"manufacturerId": 3,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "절단기",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "c1d97764-dce8-11eb-92fd-1d9aef58428d.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/c1d97764-dce8-11eb-92fd-1d9aef58428d.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/c1d97764-dce8-11eb-92fd-1d9aef58428d.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/c1d97764-dce8-11eb-92fd-1d9aef58428d.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/c1d97764-dce8-11eb-92fd-1d9aef58428d.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "c37dffa5-dce8-11eb-92fd-b5ce8cd56287.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/c37dffa5-dce8-11eb-92fd-b5ce8cd56287.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/c37dffa5-dce8-11eb-92fd-b5ce8cd56287.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/c37dffa5-dce8-11eb-92fd-b5ce8cd56287.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/c37dffa5-dce8-11eb-92fd-b5ce8cd56287.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "c4b63186-dce8-11eb-92fd-bda5a29bd8b9.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/c4b63186-dce8-11eb-92fd-bda5a29bd8b9.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/c4b63186-dce8-11eb-92fd-bda5a29bd8b9.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/c4b63186-dce8-11eb-92fd-bda5a29bd8b9.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/c4b63186-dce8-11eb-92fd-bda5a29bd8b9.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "c5f39387-dce8-11eb-92fd-e9f0e8c564af.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/c5f39387-dce8-11eb-92fd-e9f0e8c564af.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/c5f39387-dce8-11eb-92fd-e9f0e8c564af.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/c5f39387-dce8-11eb-92fd-e9f0e8c564af.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/c5f39387-dce8-11eb-92fd-e9f0e8c564af.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T01:56:41.915",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 17,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 5,
+							"manufacturerId": 3,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "절단기",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "c1d97764-dce8-11eb-92fd-1d9aef58428d.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/c1d97764-dce8-11eb-92fd-1d9aef58428d.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/c1d97764-dce8-11eb-92fd-1d9aef58428d.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/c1d97764-dce8-11eb-92fd-1d9aef58428d.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/c1d97764-dce8-11eb-92fd-1d9aef58428d.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "c37dffa5-dce8-11eb-92fd-b5ce8cd56287.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/c37dffa5-dce8-11eb-92fd-b5ce8cd56287.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/c37dffa5-dce8-11eb-92fd-b5ce8cd56287.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/c37dffa5-dce8-11eb-92fd-b5ce8cd56287.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/c37dffa5-dce8-11eb-92fd-b5ce8cd56287.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "c4b63186-dce8-11eb-92fd-bda5a29bd8b9.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/c4b63186-dce8-11eb-92fd-bda5a29bd8b9.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/c4b63186-dce8-11eb-92fd-bda5a29bd8b9.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/c4b63186-dce8-11eb-92fd-bda5a29bd8b9.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/c4b63186-dce8-11eb-92fd-bda5a29bd8b9.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "c5f39387-dce8-11eb-92fd-e9f0e8c564af.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/c5f39387-dce8-11eb-92fd-e9f0e8c564af.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/c5f39387-dce8-11eb-92fd-e9f0e8c564af.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/c5f39387-dce8-11eb-92fd-e9f0e8c564af.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/c5f39387-dce8-11eb-92fd-e9f0e8c564af.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T01:56:41.915",
+							"parts": [],
+							"site": null
+						},
+						"id": 17,
+						"partCategoryId": 1,
+						"stickerId": 14,
+						"created": "2021-07-05T02:53:21.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 14,
+							"name": "006-0006",
+							"macAddress": "ac233f6fb7ab",
+							"created": "2021-07-05T01:36:12.929"
+						},
+						"equipmentPartHistory": {
+							"user": {
+								"id": 92,
+								"username": "이갑권 ",
+								"phone": "01052300349",
+								"country": "kr",
+								"photos": [
+									{
+										"id": "29374d77-3518-11ec-9536-bf3eedcdd558.jpg",
+										"bucket": "odigo-production",
+										"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/29374d77-3518-11ec-9536-bf3eedcdd558.jpg",
+										"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/29374d77-3518-11ec-9536-bf3eedcdd558.jpg",
+										"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/128/29374d77-3518-11ec-9536-bf3eedcdd558.jpg",
+										"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/1024/29374d77-3518-11ec-9536-bf3eedcdd558.jpg",
+										"prefix": "users"
+									}
+								],
+								"latest": "2021-10-22T07:41:21.000",
+								"created": "2021-10-22T07:41:20.965",
+								"companies": [],
+								"sites": [],
+								"attendances": []
+							},
+							"id": 11855,
+							"equipmentId": 17,
+							"partCategoryId": 1,
+							"userId": 92,
+							"partStickerType": "tag",
+							"partStickerTypeDisplayName": "태그",
+							"address": "서울특별시 강서구 가양동",
+							"latitude": 37.561855,
+							"longitude": 126.83596,
+							"background": true,
+							"created": "2021-11-06T15:53:56.954"
+						},
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 19,
+					"name": "투광기",
+					"photos": [
+						{
+							"id": "74136512-d265-11eb-b4d7-65f00f0be67a.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/74136512-d265-11eb-b4d7-65f00f0be67a.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/74136512-d265-11eb-b4d7-65f00f0be67a.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/74136512-d265-11eb-b4d7-65f00f0be67a.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/74136512-d265-11eb-b4d7-65f00f0be67a.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:42:07.215",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 1,
+					"name": "기타",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.888",
+					"isHidden": true
+				},
+				"id": 18,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 19,
+				"manufacturerId": 1,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "투광기",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "08f35ee9-dce9-11eb-92fd-558e7d72ac46.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/08f35ee9-dce9-11eb-92fd-558e7d72ac46.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/08f35ee9-dce9-11eb-92fd-558e7d72ac46.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/08f35ee9-dce9-11eb-92fd-558e7d72ac46.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/08f35ee9-dce9-11eb-92fd-558e7d72ac46.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "0fc0660a-dce9-11eb-92fd-91c4b2074cef.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/0fc0660a-dce9-11eb-92fd-91c4b2074cef.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/0fc0660a-dce9-11eb-92fd-91c4b2074cef.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/0fc0660a-dce9-11eb-92fd-91c4b2074cef.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/0fc0660a-dce9-11eb-92fd-91c4b2074cef.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "26b0703b-dce9-11eb-92fd-133e5ff7cabb.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/26b0703b-dce9-11eb-92fd-133e5ff7cabb.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/26b0703b-dce9-11eb-92fd-133e5ff7cabb.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/26b0703b-dce9-11eb-92fd-133e5ff7cabb.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/26b0703b-dce9-11eb-92fd-133e5ff7cabb.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T01:59:15.826",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 18,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 19,
+							"manufacturerId": 1,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "투광기",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "08f35ee9-dce9-11eb-92fd-558e7d72ac46.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/08f35ee9-dce9-11eb-92fd-558e7d72ac46.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/08f35ee9-dce9-11eb-92fd-558e7d72ac46.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/08f35ee9-dce9-11eb-92fd-558e7d72ac46.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/08f35ee9-dce9-11eb-92fd-558e7d72ac46.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "0fc0660a-dce9-11eb-92fd-91c4b2074cef.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/0fc0660a-dce9-11eb-92fd-91c4b2074cef.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/0fc0660a-dce9-11eb-92fd-91c4b2074cef.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/0fc0660a-dce9-11eb-92fd-91c4b2074cef.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/0fc0660a-dce9-11eb-92fd-91c4b2074cef.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "26b0703b-dce9-11eb-92fd-133e5ff7cabb.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/26b0703b-dce9-11eb-92fd-133e5ff7cabb.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/26b0703b-dce9-11eb-92fd-133e5ff7cabb.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/26b0703b-dce9-11eb-92fd-133e5ff7cabb.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/26b0703b-dce9-11eb-92fd-133e5ff7cabb.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T01:59:15.826",
+							"parts": [],
+							"site": null
+						},
+						"id": 18,
+						"partCategoryId": 1,
+						"stickerId": 15,
+						"created": "2021-07-05T02:55:18.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 15,
+							"name": "006-0007",
+							"macAddress": "ac233fa7e529",
+							"created": "2021-07-05T01:36:12.941"
+						},
+						"equipmentPartHistory": {
+							"user": {
+								"id": 62,
+								"username": "길민숙",
+								"phone": "01091188055",
+								"country": "KR",
+								"photos": [
+									{
+										"id": "f244b412-0b84-11ec-8831-7371e5cb5981.jpg",
+										"bucket": "odigo-production",
+										"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/f244b412-0b84-11ec-8831-7371e5cb5981.jpg",
+										"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/f244b412-0b84-11ec-8831-7371e5cb5981.jpg",
+										"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/128/f244b412-0b84-11ec-8831-7371e5cb5981.jpg",
+										"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/1024/f244b412-0b84-11ec-8831-7371e5cb5981.jpg",
+										"prefix": "users"
+									}
+								],
+								"latest": "2021-08-30T08:02:39.000",
+								"created": "2021-08-30T08:02:38.757",
+								"companies": [],
+								"sites": [],
+								"attendances": []
+							},
+							"id": 8766,
+							"equipmentId": 18,
+							"partCategoryId": 1,
+							"userId": 62,
+							"partStickerType": "tag",
+							"partStickerTypeDisplayName": "태그",
+							"address": "서울특별시 강서구 가양1동",
+							"latitude": 37.56104,
+							"longitude": 126.83756,
+							"background": true,
+							"created": "2021-09-01T09:59:38.173"
+						},
+						"company": null
+					}
+				],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 2,
+					"name": "충전드릴",
+					"photos": [
+						{
+							"id": "8857cc9f-d264-11eb-b4d7-f578b8c95627.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/8857cc9f-d264-11eb-b4d7-f578b8c95627.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/8857cc9f-d264-11eb-b4d7-f578b8c95627.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/8857cc9f-d264-11eb-b4d7-f578b8c95627.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/8857cc9f-d264-11eb-b4d7-f578b8c95627.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:41:00.428",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 9,
+					"name": "계양전기",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.974",
+					"isHidden": false
+				},
+				"id": 22,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 2,
+				"manufacturerId": 9,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "충전드릴",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "4a520801-dcea-11eb-92fd-d58a99b88b2c.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/4a520801-dcea-11eb-92fd-d58a99b88b2c.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/4a520801-dcea-11eb-92fd-d58a99b88b2c.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/4a520801-dcea-11eb-92fd-d58a99b88b2c.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/4a520801-dcea-11eb-92fd-d58a99b88b2c.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "4bea5b42-dcea-11eb-92fd-9704ac4c4289.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/4bea5b42-dcea-11eb-92fd-9704ac4c4289.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/4bea5b42-dcea-11eb-92fd-9704ac4c4289.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/4bea5b42-dcea-11eb-92fd-9704ac4c4289.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/4bea5b42-dcea-11eb-92fd-9704ac4c4289.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T02:07:59.728",
+				"parts": [],
+				"site": null
+			},
+			{
+				"equipmentCategory": {
+					"id": 5,
+					"name": "절단기",
+					"photos": [
+						{
+							"id": "a8a85a13-d264-11eb-b4d7-f94c051f2653.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/a8a85a13-d264-11eb-b4d7-f94c051f2653.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/a8a85a13-d264-11eb-b4d7-f94c051f2653.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/a8a85a13-d264-11eb-b4d7-f94c051f2653.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/a8a85a13-d264-11eb-b4d7-f94c051f2653.png",
+							"prefix": "equipments"
+						}
+					],
+					"transparentPhotos": [],
+					"created": "2021-06-16T13:41:00.452",
+					"isHidden": false
+				},
+				"equipmentManufacturer": {
+					"id": 3,
+					"name": "보쉬",
+					"color": "999999",
+					"photos": [
+						{
+							"id": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"bucket": "odigo-production",
+							"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+							"prefix": "equipments"
+						}
+					],
+					"created": "2021-06-16T13:49:00.928",
+					"isHidden": false
+				},
+				"id": 27,
+				"companyId": 6,
+				"siteId": 9,
+				"userId": 1,
+				"categoryId": 5,
+				"manufacturerId": 3,
+				"dateOfManufacture": null,
+				"serials": [],
+				"serialPhotos": [],
+				"name": "절단기",
+				"color": null,
+				"comment": null,
+				"serialStatus": "none",
+				"serialStatusDisplayName": "없음",
+				"photos": [
+					{
+						"id": "9453b0bd-dceb-11eb-92fd-b1ca00df990d.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/9453b0bd-dceb-11eb-92fd-b1ca00df990d.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/9453b0bd-dceb-11eb-92fd-b1ca00df990d.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/9453b0bd-dceb-11eb-92fd-b1ca00df990d.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/9453b0bd-dceb-11eb-92fd-b1ca00df990d.png",
+						"prefix": "equipments"
+					},
+					{
+						"id": "96d32fae-dceb-11eb-92fd-752a3038bcc7.png",
+						"bucket": "odigo-production",
+						"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/96d32fae-dceb-11eb-92fd-752a3038bcc7.png",
+						"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/96d32fae-dceb-11eb-92fd-752a3038bcc7.png",
+						"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/96d32fae-dceb-11eb-92fd-752a3038bcc7.png",
+						"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/96d32fae-dceb-11eb-92fd-752a3038bcc7.png",
+						"prefix": "equipments"
+					}
+				],
+				"hasPermit": false,
+				"created": "2021-07-05T02:16:40.948",
+				"parts": [
+					{
+						"equipment": {
+							"equipmentCategory": null,
+							"equipmentManufacturer": null,
+							"id": 27,
+							"companyId": 6,
+							"siteId": 9,
+							"userId": 1,
+							"categoryId": 5,
+							"manufacturerId": 3,
+							"dateOfManufacture": null,
+							"serials": [],
+							"serialPhotos": [],
+							"name": "절단기",
+							"color": null,
+							"comment": null,
+							"serialStatus": "none",
+							"serialStatusDisplayName": "없음",
+							"photos": [
+								{
+									"id": "9453b0bd-dceb-11eb-92fd-b1ca00df990d.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/9453b0bd-dceb-11eb-92fd-b1ca00df990d.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/9453b0bd-dceb-11eb-92fd-b1ca00df990d.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/9453b0bd-dceb-11eb-92fd-b1ca00df990d.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/9453b0bd-dceb-11eb-92fd-b1ca00df990d.png",
+									"prefix": "equipments"
+								},
+								{
+									"id": "96d32fae-dceb-11eb-92fd-752a3038bcc7.png",
+									"bucket": "odigo-production",
+									"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/96d32fae-dceb-11eb-92fd-752a3038bcc7.png",
+									"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/96d32fae-dceb-11eb-92fd-752a3038bcc7.png",
+									"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/128/96d32fae-dceb-11eb-92fd-752a3038bcc7.png",
+									"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/1024/96d32fae-dceb-11eb-92fd-752a3038bcc7.png",
+									"prefix": "equipments"
+								}
+							],
+							"hasPermit": false,
+							"created": "2021-07-05T02:16:40.948",
+							"parts": [],
+							"site": null
+						},
+						"id": 27,
+						"partCategoryId": 1,
+						"stickerId": 24,
+						"created": "2021-07-05T03:03:17.000",
+						"category": {
+							"id": 1,
+							"name": "본체",
+							"icons": [],
+							"created": "2021-06-25T00:36:11.982"
+						},
+						"sticker": {
+							"id": 24,
+							"name": "006-0016",
+							"macAddress": "ac233f6fb7a9",
+							"created": "2021-07-05T01:37:12.354"
+						},
+						"equipmentPartHistory": {
+							"user": {
+								"id": 33,
+								"username": "차승규 ",
+								"phone": "01043585119",
+								"country": "KR",
+								"photos": [
+									{
+										"id": "ad7238fd-e4f0-11eb-b187-5b199254d0ea.jpg",
+										"bucket": "odigo-production",
+										"url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/ad7238fd-e4f0-11eb-b187-5b199254d0ea.jpg",
+										"middleUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/ad7238fd-e4f0-11eb-b187-5b199254d0ea.jpg",
+										"smallUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/128/ad7238fd-e4f0-11eb-b187-5b199254d0ea.jpg",
+										"largeUrl": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/1024/ad7238fd-e4f0-11eb-b187-5b199254d0ea.jpg",
+										"prefix": "users"
+									}
+								],
+								"latest": "2021-10-27T16:52:50.000",
+								"created": "2021-07-14T07:54:57.360",
+								"companies": [],
+								"sites": [],
+								"attendances": []
+							},
+							"id": 13074,
+							"equipmentId": 27,
+							"partCategoryId": 1,
+							"userId": 33,
+							"partStickerType": "tag",
+							"partStickerTypeDisplayName": "태그",
+							"address": "서울특별시 강서구 가양동",
+							"latitude": 37.56136,
+							"longitude": 126.837204,
+							"background": true,
+							"created": "2021-11-29T06:51:17.294"
+						},
+						"company": null
+					}
+				],
+				"site": null
+			}
+		],
+		"size": 20,
+		"previousPageIndex": null,
+		"currentPageIndex": 1,
+		"nextPageIndex": 2,
+		"totalItemCount": 24,
+		"totalPageCount": 2,
+		"pageSize": 20,
+		"hasPrevious": false,
+		"hasNext": true
+	}
+}
