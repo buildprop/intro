@@ -31,7 +31,7 @@
     "work": { "type": "종합", "percent": 50, "txt": "오늘의 공사일보", "photos": ["url1", "url2"]},
     "subs": [
       {"id": 201,"lat": 35,"lon": 128,"company": "대웅201","name": "우만빌라","type": "설비","staff": 80,"work": {"type": "설비","percent": 10, "txt": "오늘의 공사일보","photos": ["url1","url2"]}},
-      {"id": 201,"lat": 35,"lon": 128,"company": "대웅202","name": "우만빌라","type": "설비","staff": 80,"work": null}
+      {"id": 202,"lat": 35,"lon": 128,"company": "대웅202","name": "우만빌라","type": "설비","staff": 80,"work": null}
     ]
   },
   {
