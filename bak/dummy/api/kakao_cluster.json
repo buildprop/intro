@@ -7,8 +7,19 @@
     "type": "종합","staff": 10,
     "work": { "type": "종합", "percent": 50, "txt": "오늘의 공사일보", "photos": ["url1", "url2"]},
     "subs": [
-      {"id": 101,"lat": 35,"lon": 128,"company": "대웅1","name": "우만빌라","type": "설비","staff": 80,"work": {"type": "설비","percent": 10, "txt": "오늘의 공사일보","photos": ["url1","url2"]}},
-      {"id": 101,"lat": 35,"lon": 128,"company": "대웅2","name": "우만빌라","type": "설비","staff": 80,"work": null}
+      {"id": 101,"lat": 35,"lon": 128,"company": "대웅101","name": "우만빌라","type": "설비","staff": 80,"work": {"type": "설비","percent": 10, "txt": "오늘의 공사일보","photos": ["url1","url2"]}},
+      {"id": 102,"lat": 35,"lon": 128,"company": "대웅102","name": "우만빌라","type": "설비","staff": 80,"work": null},
+      {"id": 103,"lat": 35,"lon": 128,"company": "대웅103","name": "우만빌라","type": "설비","staff": 80,"work": null},
+      {"id": 104,"lat": 35,"lon": 128,"company": "대웅104","name": "우만빌라","type": "설비","staff": 80,"work": null},
+      {"id": 105,"lat": 35,"lon": 128,"company": "대웅105","name": "우만빌라","type": "설비","staff": 80,"work": null},
+      {"id": 106,"lat": 35,"lon": 128,"company": "대웅106","name": "우만빌라","type": "설비","staff": 80,"work": null},
+      {"id": 107,"lat": 35,"lon": 128,"company": "대웅107","name": "우만빌라","type": "설비","staff": 80,"work": null},
+      {"id": 108,"lat": 35,"lon": 128,"company": "대웅108","name": "우만빌라","type": "설비","staff": 80,"work": null},
+      {"id": 109,"lat": 35,"lon": 128,"company": "대웅109","name": "우만빌라","type": "설비","staff": 80,"work": null},
+      {"id": 110,"lat": 35,"lon": 128,"company": "대웅110","name": "우만빌라","type": "설비","staff": 80,"work": null},
+      {"id": 111,"lat": 35,"lon": 128,"company": "대웅111","name": "우만빌라","type": "설비","staff": 80,"work": null},
+      {"id": 112,"lat": 35,"lon": 128,"company": "대웅112","name": "우만빌라","type": "설비","staff": 80,"work": null},
+      {"id": 113,"lat": 35,"lon": 128,"company": "대웅113","name": "우만빌라","type": "설비","staff": 80,"work": null}
     ]
   },
   {
@@ -19,8 +30,8 @@
     "type": "종합","staff": 10,
     "work": { "type": "종합", "percent": 50, "txt": "오늘의 공사일보", "photos": ["url1", "url2"]},
     "subs": [
-      {"id": 201,"lat": 35,"lon": 128,"company": "대웅1","name": "우만빌라","type": "설비","staff": 80,"work": {"type": "설비","percent": 10, "txt": "오늘의 공사일보","photos": ["url1","url2"]}},
-      {"id": 201,"lat": 35,"lon": 128,"company": "대웅2","name": "우만빌라","type": "설비","staff": 80,"work": null}
+      {"id": 201,"lat": 35,"lon": 128,"company": "대웅201","name": "우만빌라","type": "설비","staff": 80,"work": {"type": "설비","percent": 10, "txt": "오늘의 공사일보","photos": ["url1","url2"]}},
+      {"id": 201,"lat": 35,"lon": 128,"company": "대웅202","name": "우만빌라","type": "설비","staff": 80,"work": null}
     ]
   },
   {
