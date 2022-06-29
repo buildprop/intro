@@ -1,6 +1,6 @@
 html {
   font-size: 62.5%;
-  font-family:'Apple SD Gothic Neo', 'Noto Sans KR',Sans-serif;
+  font-family: "Apple SD Gothic Neo", "Noto Sans KR", Sans-serif;
 }
 
 .antLayoutContent {
@@ -230,7 +230,7 @@ html {
 }
 
 .flContainer {
-  margin-right: 48rem;
+  margin-right: 66rem;
 }
 
 .slTextPosition {
@@ -346,6 +346,114 @@ html {
   object-fit: contain;
 }
 
+
+.sixthLayout {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 0px;
+  background-color: #2ccbfb;
+}
+
+.sixthLayoutH1 {
+  font-size: 4.1rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #ffffff;
+  margin: 0 0 4rem 0;
+}
+
+.sixthLayoutH2 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  margin: 0;
+}
+
+.sixthLayoutBtnContainer {
+  border: none;
+  outline: none;
+  font-size: 22px;
+  position: relative;
+  top: 30px;
+  font-weight: 800;
+  width: 220px;
+  box-shadow: 0 4px 11.5px 0 rgba(0, 0, 0, 0.16);
+  background-color: #32bbfe;
+  border-radius: 48px;
+  cursor: pointer;
+  overflow: hidden;
+  margin-top: 40px;
+  color: #ffffff;
+  height: 60px;
+  display: inline-flex;
+  box-sizing: border-box;
+  -webkit-box-align: center;
+  align-items: center;
+  flex-shrink: 0;
+  -webkit-box-pack: center;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.sixthLayoutButton {
+  border: none;
+  outline: none;
+  font-size: 18px;
+  font-weight: 800;
+  width: 170px;
+  box-shadow: 0 4px 11.5px 0 rgba(0, 0, 0, 0.16);
+  background-image: linear-gradient(to right, #fff 14%, #fff 131%);
+  border-radius: 48px;
+  cursor: pointer;
+  overflow: hidden;
+  margin-top: 4rem;
+  color: #000;
+  height: 51px;
+  display: inline-flex;
+  box-sizing: border-box;
+  -webkit-box-align: center;
+  align-items: center;
+  flex-shrink: 0;
+  -webkit-box-pack: center;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.sixthLayoutDisplay {
+  width: 100%;
+  display: inline-flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+}
+
+.sixthLayoutText {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+
+.sixthLayoutBtnImg {
+  width: 40px;
+  position: relative;
+  bottom: 3px;
+  object-fit: cover;
+}
+
+
 .footerContainer {
   width: 100%;
   background-color: white;
@@ -414,9 +522,9 @@ html {
   letter-spacing: normal;
   font-size: 14px;
   margin-top: 10px;
-overflow-wrap: break-word;
-    word-break: keep-all;
-    text-rendering: optimizeLegibility;
+  overflow-wrap: break-word;
+  word-break: keep-all;
+  text-rendering: optimizeLegibility;
 }
 
 .footerSpan_3 {
@@ -430,7 +538,6 @@ overflow-wrap: break-word;
   letter-spacing: normal;
   font-size: 10px;
   margin-top: 30px;
-  
 }
 
 .footerLi_1 {
@@ -496,7 +603,6 @@ overflow-wrap: break-word;
     left: 65px;
   }
 
-
   .flbpImg {
     width: 28.7rem;
   }
@@ -519,6 +625,15 @@ overflow-wrap: break-word;
     font-size: 40%;
   }
 
+  .sixthLayoutH1 {
+    margin: 0 0 2rem 0;
+    line-height: 1.3em;
+  }
+
+  .sixthLayoutH1 span{
+    display:block;
+  }
+
   .slGridsIcon_1 {
     width: 33px;
     height: 33px;
@@ -535,22 +650,8 @@ overflow-wrap: break-word;
     left: 130px;
   }
 
-  .slGridsIcon_2 {
-  }
-
-  .slGridsIcon_3 {
-  }
-
-  .slGridsIcon_4 {
-  }
-
-  .slGridsIcon_5 {
-  }
-
-  .slGridsIcon_6 {
-  }
-
-  .slGridsIcon_7 {
+  .sixthLayout {
+    padding: 30px 30px;
   }
 
   .firstLayout {
@@ -561,7 +662,6 @@ overflow-wrap: break-word;
     top: 50px;
     left: 195px;
   }
-
 
   .slTextPosition_2 {
     top: 50px;
