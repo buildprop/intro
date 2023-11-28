@@ -1,0 +1,774 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+    {
+    "key": {
+    "id": 49,
+    "companyId": 4
+    },
+    "name": "고나인",
+    "position": "사원",
+    "phone": "01082894260",
+    "state": "active",
+    "userState": "working",
+    "user": {
+    "id": 49,
+    "phone": "01082894260",
+    "country": "KR",
+    "username": "고나인",
+    "photoKeys": "714df933-227b-11ec-af07-197a2e5ceeb0.jpg",
+    "temporaryPassword": null,
+    "latest": "2023-11-27T17:10:28.000",
+    "photos": [
+    {
+    "prefix": "users/512",
+    "id": "714df933-227b-11ec-af07-197a2e5ceeb0.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/714df933-227b-11ec-af07-197a2e5ceeb0.jpg"
+    }
+    ],
+    "position": null,
+    "positionLevel": null,
+    "company": null
+    },
+    "company": {
+    "id": 4,
+    "name": "빌드프롭",
+    "representative": "이큰별",
+    "telephone": "02-6925-6207",
+    "businessNumber": "6198702216",
+    "fileKeys": "282cbe8e-cda9-11eb-8c6c-a1916e6f663a.pdf",
+    "companyState": "active",
+    "address": null,
+    "fax": null,
+    "created": "2021-06-15T16:13:27.000",
+    "serviceDay": 895
+    },
+    "sites": [
+    "고나인 재택근무지",
+    "통의동 사무실"
+    ],
+    "created": "2021-07-23T17:23:27.000",
+    "positionLevel": 1,
+    "monthlySiteAttendances": [],
+    "weeklySiteAttendances": [],
+    "siteAttendances": [],
+    "userAttendances": null
+    },
+    {
+    "key": {
+    "id": 323,
+    "companyId": 4
+    },
+    "name": "김보란",
+    "position": "사원",
+    "phone": "01036371779",
+    "state": "active",
+    "userState": "working",
+    "user": {
+    "id": 323,
+    "phone": "01036371779",
+    "country": "kr",
+    "username": "김보란",
+    "photoKeys": "1fdc538d-bc28-11ed-8a9a-f5dc38b676e2.jpg",
+    "temporaryPassword": null,
+    "latest": "2023-11-15T09:19:07.000",
+    "photos": [
+    {
+    "prefix": "users/512",
+    "id": "1fdc538d-bc28-11ed-8a9a-f5dc38b676e2.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/1fdc538d-bc28-11ed-8a9a-f5dc38b676e2.jpg"
+    }
+    ],
+    "position": null,
+    "positionLevel": null,
+    "company": null
+    },
+    "company": {
+    "id": 4,
+    "name": "빌드프롭",
+    "representative": "이큰별",
+    "telephone": "02-6925-6207",
+    "businessNumber": "6198702216",
+    "fileKeys": "282cbe8e-cda9-11eb-8c6c-a1916e6f663a.pdf",
+    "companyState": "active",
+    "address": null,
+    "fax": null,
+    "created": "2021-06-15T16:13:27.000",
+    "serviceDay": 895
+    },
+    "sites": [
+    "김보란 재택근무지",
+    "코리아빌드_넥스트콘",
+    "통의동 사무실"
+    ],
+    "created": "2022-06-20T15:13:44.000",
+    "positionLevel": 1,
+    "monthlySiteAttendances": [],
+    "weeklySiteAttendances": [],
+    "siteAttendances": [],
+    "userAttendances": null
+    },
+    {
+    "key": {
+    "id": 885,
+    "companyId": 4
+    },
+    "name": "김소진",
+    "position": "사원",
+    "phone": "01082592164",
+    "state": "active",
+    "userState": "working",
+    "user": {
+    "id": 885,
+    "phone": "01082592164",
+    "country": "kr",
+    "username": "김소진",
+    "photoKeys": "b7872cf3-7147-11ee-a4a4-dfd6e26f968d.jpg",
+    "temporaryPassword": null,
+    "latest": "2023-11-25T16:31:52.000",
+    "photos": [
+    {
+    "prefix": "users/512",
+    "id": "b7872cf3-7147-11ee-a4a4-dfd6e26f968d.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/b7872cf3-7147-11ee-a4a4-dfd6e26f968d.jpg"
+    }
+    ],
+    "position": null,
+    "positionLevel": null,
+    "company": null
+    },
+    "company": {
+    "id": 4,
+    "name": "빌드프롭",
+    "representative": "이큰별",
+    "telephone": "02-6925-6207",
+    "businessNumber": "6198702216",
+    "fileKeys": "282cbe8e-cda9-11eb-8c6c-a1916e6f663a.pdf",
+    "companyState": "active",
+    "address": null,
+    "fax": null,
+    "created": "2021-06-15T16:13:27.000",
+    "serviceDay": 895
+    },
+    "sites": [
+    "iOS 테스트 현장",
+    "김소진 재택근무지",
+    "테스트 현장",
+    "테스트 현장3",
+    "통의동 사무실"
+    ],
+    "created": "2022-12-19T16:31:05.000",
+    "positionLevel": 1,
+    "monthlySiteAttendances": [],
+    "weeklySiteAttendances": [],
+    "siteAttendances": [],
+    "userAttendances": null
+    },
+    {
+    "key": {
+    "id": 85,
+    "companyId": 4
+    },
+    "name": "김용호",
+    "position": "사원",
+    "phone": "01088435580",
+    "state": "active",
+    "userState": "working",
+    "user": {
+    "id": 85,
+    "phone": "01088435580",
+    "country": "kr",
+    "username": "김용호",
+    "photoKeys": "18c8c684-a150-11ed-b516-7fef2d8ea0d3.jpg",
+    "temporaryPassword": null,
+    "latest": "2023-11-24T18:40:15.000",
+    "photos": [
+    {
+    "prefix": "users/512",
+    "id": "18c8c684-a150-11ed-b516-7fef2d8ea0d3.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/18c8c684-a150-11ed-b516-7fef2d8ea0d3.jpg"
+    }
+    ],
+    "position": null,
+    "positionLevel": null,
+    "company": null
+    },
+    "company": {
+    "id": 4,
+    "name": "빌드프롭",
+    "representative": "이큰별",
+    "telephone": "02-6925-6207",
+    "businessNumber": "6198702216",
+    "fileKeys": "282cbe8e-cda9-11eb-8c6c-a1916e6f663a.pdf",
+    "companyState": "active",
+    "address": null,
+    "fax": null,
+    "created": "2021-06-15T16:13:27.000",
+    "serviceDay": 895
+    },
+    "sites": [
+    "김용호 재택근무지",
+    "통의동 사무실"
+    ],
+    "created": "2022-06-22T15:21:05.000",
+    "positionLevel": 1,
+    "monthlySiteAttendances": [],
+    "weeklySiteAttendances": [],
+    "siteAttendances": [],
+    "userAttendances": null
+    },
+    {
+    "key": {
+    "id": 97,
+    "companyId": 4
+    },
+    "name": "김유정 ",
+    "position": "사원",
+    "phone": "01032009502",
+    "state": "active",
+    "userState": "working",
+    "user": {
+    "id": 97,
+    "phone": "01032009502",
+    "country": "kr",
+    "username": "김유정",
+    "photoKeys": "dd828d25-48df-11ec-8509-11b4baa9bb44.jpg",
+    "temporaryPassword": null,
+    "latest": "2023-11-28T10:40:09.000",
+    "photos": [
+    {
+    "prefix": "users/512",
+    "id": "dd828d25-48df-11ec-8509-11b4baa9bb44.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/dd828d25-48df-11ec-8509-11b4baa9bb44.jpg"
+    }
+    ],
+    "position": null,
+    "positionLevel": null,
+    "company": null
+    },
+    "company": {
+    "id": 4,
+    "name": "빌드프롭",
+    "representative": "이큰별",
+    "telephone": "02-6925-6207",
+    "businessNumber": "6198702216",
+    "fileKeys": "282cbe8e-cda9-11eb-8c6c-a1916e6f663a.pdf",
+    "companyState": "active",
+    "address": null,
+    "fax": null,
+    "created": "2021-06-15T16:13:27.000",
+    "serviceDay": 895
+    },
+    "sites": [
+    "김유정 재택근무지",
+    "통의동 사무실"
+    ],
+    "created": "2021-11-01T16:14:59.000",
+    "positionLevel": 1,
+    "monthlySiteAttendances": [],
+    "weeklySiteAttendances": [],
+    "siteAttendances": [],
+    "userAttendances": null
+    },
+    {
+    "key": {
+    "id": 90,
+    "companyId": 4
+    },
+    "name": "김재진",
+    "position": "대리",
+    "phone": "01053347752",
+    "state": "active",
+    "userState": "working",
+    "user": {
+    "id": 90,
+    "phone": "01053347752",
+    "country": "kr",
+    "username": "김재진",
+    "photoKeys": "d488afa6-f06a-11ec-9ee7-6bc6c59b0bd9.jpg",
+    "temporaryPassword": null,
+    "latest": "2023-11-28T10:39:56.000",
+    "photos": [
+    {
+    "prefix": "users/512",
+    "id": "d488afa6-f06a-11ec-9ee7-6bc6c59b0bd9.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/d488afa6-f06a-11ec-9ee7-6bc6c59b0bd9.jpg"
+    }
+    ],
+    "position": null,
+    "positionLevel": null,
+    "company": null
+    },
+    "company": {
+    "id": 4,
+    "name": "빌드프롭",
+    "representative": "이큰별",
+    "telephone": "02-6925-6207",
+    "businessNumber": "6198702216",
+    "fileKeys": "282cbe8e-cda9-11eb-8c6c-a1916e6f663a.pdf",
+    "companyState": "active",
+    "address": null,
+    "fax": null,
+    "created": "2021-06-15T16:13:27.000",
+    "serviceDay": 895
+    },
+    "sites": [
+    "김재진 재택근무지",
+    "스포츠 아일랜드",
+    "코리아빌드_넥스트콘",
+    "테스트 현장",
+    "테스트 현장3",
+    "통의동 사무실"
+    ],
+    "created": "2021-10-18T16:29:50.000",
+    "positionLevel": 1,
+    "monthlySiteAttendances": [],
+    "weeklySiteAttendances": [],
+    "siteAttendances": [],
+    "userAttendances": null
+    },
+    {
+    "key": {
+    "id": 89,
+    "companyId": 4
+    },
+    "name": "라이언 철수 킴",
+    "position": "사원",
+    "phone": "01042452372",
+    "state": "active",
+    "userState": "working",
+    "user": {
+    "id": 89,
+    "phone": "01042452372",
+    "country": "kr",
+    "username": "김철수",
+    "photoKeys": "3f6b722b-5146-11ed-9a8c-6b94739cc63e.jpg",
+    "temporaryPassword": null,
+    "latest": "2023-09-18T16:29:42.000",
+    "photos": [
+    {
+    "prefix": "users/512",
+    "id": "3f6b722b-5146-11ed-9a8c-6b94739cc63e.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/3f6b722b-5146-11ed-9a8c-6b94739cc63e.jpg"
+    }
+    ],
+    "position": null,
+    "positionLevel": null,
+    "company": null
+    },
+    "company": {
+    "id": 4,
+    "name": "빌드프롭",
+    "representative": "이큰별",
+    "telephone": "02-6925-6207",
+    "businessNumber": "6198702216",
+    "fileKeys": "282cbe8e-cda9-11eb-8c6c-a1916e6f663a.pdf",
+    "companyState": "active",
+    "address": null,
+    "fax": null,
+    "created": "2021-06-15T16:13:27.000",
+    "serviceDay": 895
+    },
+    "sites": [
+    "김재진 재택근무지",
+    "통의동 사무실"
+    ],
+    "created": "2021-10-15T12:23:07.000",
+    "positionLevel": 1,
+    "monthlySiteAttendances": [],
+    "weeklySiteAttendances": [],
+    "siteAttendances": [],
+    "userAttendances": null
+    },
+    {
+    "key": {
+    "id": 1282,
+    "companyId": 4
+    },
+    "name": "서형규",
+    "position": "사원",
+    "phone": "01034114438",
+    "state": "active",
+    "userState": "working",
+    "user": {
+    "id": 1282,
+    "phone": "01034114438",
+    "country": "kr",
+    "username": "서형규",
+    "photoKeys": "84de69dc-8368-11ee-be20-e58078c2ff09.jpg",
+    "temporaryPassword": null,
+    "latest": "2023-11-24T14:41:36.000",
+    "photos": [
+    {
+    "prefix": "users/512",
+    "id": "84de69dc-8368-11ee-be20-e58078c2ff09.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/84de69dc-8368-11ee-be20-e58078c2ff09.jpg"
+    }
+    ],
+    "position": null,
+    "positionLevel": null,
+    "company": null
+    },
+    "company": {
+    "id": 4,
+    "name": "빌드프롭",
+    "representative": "이큰별",
+    "telephone": "02-6925-6207",
+    "businessNumber": "6198702216",
+    "fileKeys": "282cbe8e-cda9-11eb-8c6c-a1916e6f663a.pdf",
+    "companyState": "active",
+    "address": null,
+    "fax": null,
+    "created": "2021-06-15T16:13:27.000",
+    "serviceDay": 895
+    },
+    "sites": [
+    "서형규 재택근무지",
+    "통의동 사무실"
+    ],
+    "created": "2023-03-27T16:22:53.000",
+    "positionLevel": 1,
+    "monthlySiteAttendances": [],
+    "weeklySiteAttendances": [],
+    "siteAttendances": [],
+    "userAttendances": null
+    },
+    {
+    "key": {
+    "id": 1511,
+    "companyId": 4
+    },
+    "name": "안드로이드 개발자",
+    "position": "인부",
+    "phone": "01099999990",
+    "state": "active",
+    "userState": "working",
+    "user": {
+    "id": 1511,
+    "phone": "01099999990",
+    "country": "kr",
+    "username": "안드로이드 테스트1",
+    "photoKeys": "d90426e9-3514-11ee-97a9-5db92ca1731f.jpg",
+    "temporaryPassword": null,
+    "latest": "2023-11-06T18:52:36.000",
+    "photos": [
+    {
+    "prefix": "users/512",
+    "id": "d90426e9-3514-11ee-97a9-5db92ca1731f.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/d90426e9-3514-11ee-97a9-5db92ca1731f.jpg"
+    }
+    ],
+    "position": null,
+    "positionLevel": null,
+    "company": null
+    },
+    "company": {
+    "id": 4,
+    "name": "빌드프롭",
+    "representative": "이큰별",
+    "telephone": "02-6925-6207",
+    "businessNumber": "6198702216",
+    "fileKeys": "282cbe8e-cda9-11eb-8c6c-a1916e6f663a.pdf",
+    "companyState": "active",
+    "address": null,
+    "fax": null,
+    "created": "2021-06-15T16:13:27.000",
+    "serviceDay": 895
+    },
+    "sites": [],
+    "created": "2023-09-11T16:41:53.000",
+    "positionLevel": 3,
+    "monthlySiteAttendances": [],
+    "weeklySiteAttendances": [],
+    "siteAttendances": [],
+    "userAttendances": null
+    },
+    {
+    "key": {
+    "id": 4,
+    "companyId": 4
+    },
+    "name": "이미영",
+    "position": "파트장",
+    "phone": "01074283854",
+    "state": "active",
+    "userState": "working",
+    "user": {
+    "id": 4,
+    "phone": "01074283854",
+    "country": "KR",
+    "username": "이미영",
+    "photoKeys": "f183561f-fa86-11eb-b286-cb33eff72d3f.jpg",
+    "temporaryPassword": null,
+    "latest": "2021-10-14T12:41:06.000",
+    "photos": [
+    {
+    "prefix": "users/512",
+    "id": "f183561f-fa86-11eb-b286-cb33eff72d3f.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/f183561f-fa86-11eb-b286-cb33eff72d3f.jpg"
+    }
+    ],
+    "position": null,
+    "positionLevel": null,
+    "company": null
+    },
+    "company": {
+    "id": 4,
+    "name": "빌드프롭",
+    "representative": "이큰별",
+    "telephone": "02-6925-6207",
+    "businessNumber": "6198702216",
+    "fileKeys": "282cbe8e-cda9-11eb-8c6c-a1916e6f663a.pdf",
+    "companyState": "active",
+    "address": null,
+    "fax": null,
+    "created": "2021-06-15T16:13:27.000",
+    "serviceDay": 895
+    },
+    "sites": [
+    "스포츠 아일랜드"
+    ],
+    "created": "2021-06-15T22:33:28.000",
+    "positionLevel": 1,
+    "monthlySiteAttendances": [],
+    "weeklySiteAttendances": [],
+    "siteAttendances": [],
+    "userAttendances": null
+    },
+    {
+    "key": {
+    "id": 84,
+    "companyId": 4
+    },
+    "name": "이수환",
+    "position": "이사",
+    "phone": "01031160250",
+    "state": "active",
+    "userState": "working",
+    "user": {
+    "id": 84,
+    "phone": "01031160250",
+    "country": "kr",
+    "username": "이수환",
+    "photoKeys": "7384e248-3bc4-11ec-99e2-eb44dad98fcb.jpg",
+    "temporaryPassword": null,
+    "latest": "2023-08-10T10:08:18.000",
+    "photos": [
+    {
+    "prefix": "users/512",
+    "id": "7384e248-3bc4-11ec-99e2-eb44dad98fcb.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/7384e248-3bc4-11ec-99e2-eb44dad98fcb.jpg"
+    }
+    ],
+    "position": null,
+    "positionLevel": null,
+    "company": null
+    },
+    "company": {
+    "id": 4,
+    "name": "빌드프롭",
+    "representative": "이큰별",
+    "telephone": "02-6925-6207",
+    "businessNumber": "6198702216",
+    "fileKeys": "282cbe8e-cda9-11eb-8c6c-a1916e6f663a.pdf",
+    "companyState": "active",
+    "address": null,
+    "fax": null,
+    "created": "2021-06-15T16:13:27.000",
+    "serviceDay": 895
+    },
+    "sites": [
+    "스포츠 아일랜드"
+    ],
+    "created": "2021-10-07T20:20:20.000",
+    "positionLevel": 1,
+    "monthlySiteAttendances": [],
+    "weeklySiteAttendances": [],
+    "siteAttendances": [],
+    "userAttendances": null
+    },
+    {
+    "key": {
+    "id": 1,
+    "companyId": 4
+    },
+    "name": "이장연",
+    "position": "과장",
+    "phone": "01037062372",
+    "state": "active",
+    "userState": "working",
+    "user": {
+    "id": 1,
+    "phone": "01037062372",
+    "country": "KR",
+    "username": "이장연",
+    "photoKeys": "7ece4cca-2d52-11ec-8a8a-9d27d5fb32f5.jpg",
+    "temporaryPassword": null,
+    "latest": "2023-02-05T01:27:43.000",
+    "photos": [
+    {
+    "prefix": "users/512",
+    "id": "7ece4cca-2d52-11ec-8a8a-9d27d5fb32f5.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/7ece4cca-2d52-11ec-8a8a-9d27d5fb32f5.jpg"
+    }
+    ],
+    "position": null,
+    "positionLevel": null,
+    "company": null
+    },
+    "company": {
+    "id": 4,
+    "name": "빌드프롭",
+    "representative": "이큰별",
+    "telephone": "02-6925-6207",
+    "businessNumber": "6198702216",
+    "fileKeys": "282cbe8e-cda9-11eb-8c6c-a1916e6f663a.pdf",
+    "companyState": "active",
+    "address": null,
+    "fax": null,
+    "created": "2021-06-15T16:13:27.000",
+    "serviceDay": 895
+    },
+    "sites": [
+    "스포츠 아일랜드",
+    "통의동 사무실",
+    "통의동 창고"
+    ],
+    "created": "2022-07-04T15:57:30.000",
+    "positionLevel": 1,
+    "monthlySiteAttendances": [],
+    "weeklySiteAttendances": [],
+    "siteAttendances": [],
+    "userAttendances": null
+    },
+    {
+    "key": {
+    "id": 20,
+    "companyId": 4
+    },
+    "name": "이큰별",
+    "position": "대표",
+    "phone": "01034669052",
+    "state": "active",
+    "userState": "working",
+    "user": {
+    "id": 20,
+    "phone": "01034669052",
+    "country": "KR",
+    "username": "이큰별",
+    "photoKeys": "a419aeab-dfa0-11eb-a291-030291570128.jpg",
+    "temporaryPassword": null,
+    "latest": "2023-10-26T15:15:58.000",
+    "photos": [
+    {
+    "prefix": "users/512",
+    "id": "a419aeab-dfa0-11eb-a291-030291570128.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/a419aeab-dfa0-11eb-a291-030291570128.jpg"
+    }
+    ],
+    "position": null,
+    "positionLevel": null,
+    "company": null
+    },
+    "company": {
+    "id": 4,
+    "name": "빌드프롭",
+    "representative": "이큰별",
+    "telephone": "02-6925-6207",
+    "businessNumber": "6198702216",
+    "fileKeys": "282cbe8e-cda9-11eb-8c6c-a1916e6f663a.pdf",
+    "companyState": "active",
+    "address": null,
+    "fax": null,
+    "created": "2021-06-15T16:13:27.000",
+    "serviceDay": 895
+    },
+    "sites": [
+    "고나인 재택근무지",
+    "김보란 재택근무지",
+    "김소진 재택근무지",
+    "김용호 재택근무지",
+    "김유정 재택근무지",
+    "김재진 재택근무지",
+    "서형규 재택근무지",
+    "일우엠이씨",
+    "코리아빌드_넥스트콘",
+    "통의동 사무실"
+    ],
+    "created": "2021-06-24T10:16:17.000",
+    "positionLevel": 1,
+    "monthlySiteAttendances": [],
+    "weeklySiteAttendances": [],
+    "siteAttendances": [],
+    "userAttendances": null
+    },
+    {
+    "key": {
+    "id": 1423,
+    "companyId": 4
+    },
+    "name": "홍길동",
+    "position": "공무",
+    "phone": "01075326198",
+    "state": "active",
+    "userState": "working",
+    "user": {
+    "id": 1423,
+    "phone": "01075326198",
+    "country": "kr",
+    "username": "빌드프롭",
+    "photoKeys": "9e60b8c6-850a-11ee-be20-eb12d8bac6ed.jpg",
+    "temporaryPassword": "$2a$11$.n3IEklqDWc9HsmGetRKH.fvQHExd3E4SbOD3/mWDbYzPqz.ca/Ti",
+    "latest": "2023-11-23T11:36:14.000",
+    "photos": [
+    {
+    "prefix": "users/512",
+    "id": "9e60b8c6-850a-11ee-be20-eb12d8bac6ed.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/9e60b8c6-850a-11ee-be20-eb12d8bac6ed.jpg"
+    }
+    ],
+    "position": null,
+    "positionLevel": null,
+    "company": null
+    },
+    "company": {
+    "id": 4,
+    "name": "빌드프롭",
+    "representative": "이큰별",
+    "telephone": "02-6925-6207",
+    "businessNumber": "6198702216",
+    "fileKeys": "282cbe8e-cda9-11eb-8c6c-a1916e6f663a.pdf",
+    "companyState": "active",
+    "address": null,
+    "fax": null,
+    "created": "2021-06-15T16:13:27.000",
+    "serviceDay": 895
+    },
+    "sites": [
+    "테스트 현장2",
+    "통의동 사무실"
+    ],
+    "created": "2023-05-30T18:17:33.000",
+    "positionLevel": 2,
+    "monthlySiteAttendances": [],
+    "weeklySiteAttendances": [],
+    "siteAttendances": [],
+    "userAttendances": null
+    }
+    ]
+    }

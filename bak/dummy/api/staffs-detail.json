@@ -1,0 +1,3620 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+    "key": {
+    "id": 85,
+    "companyId": 4
+    },
+    "name": "김용호",
+    "position": "사원",
+    "phone": "01088435580",
+    "state": "active",
+    "userState": "working",
+    "user": {
+    "id": 85,
+    "phone": "01088435580",
+    "country": "kr",
+    "username": "김용호",
+    "photoKeys": "18c8c684-a150-11ed-b516-7fef2d8ea0d3.jpg",
+    "temporaryPassword": null,
+    "latest": "2023-11-24T18:40:15.000",
+    "photos": [
+    {
+    "prefix": "users/512",
+    "id": "18c8c684-a150-11ed-b516-7fef2d8ea0d3.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/users/512/18c8c684-a150-11ed-b516-7fef2d8ea0d3.jpg"
+    }
+    ],
+    "position": null,
+    "positionLevel": null,
+    "company": null
+    },
+    "company": {
+    "id": 4,
+    "name": "빌드프롭",
+    "representative": "이큰별",
+    "telephone": "02-6925-6207",
+    "businessNumber": "6198702216",
+    "fileKeys": "282cbe8e-cda9-11eb-8c6c-a1916e6f663a.pdf",
+    "companyState": "active",
+    "address": null,
+    "fax": null,
+    "created": "2021-06-15T16:13:27.000",
+    "serviceDay": 896
+    },
+    "sites": [
+    "김용호 재택근무지",
+    "통의동 사무실"
+    ],
+    "created": "2022-06-22T15:21:05.000",
+    "positionLevel": 1,
+    "monthlySiteAttendances": [],
+    "weeklySiteAttendances": [],
+    "siteAttendances": [],
+    "userAttendances": [
+    {
+    "date": "2023-11-01",
+    "checkIn": {
+    "id": 158630,
+    "work": null,
+    "latitude": 37.57764,
+    "longitude": 126.97351,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": 323,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkin",
+    "photoKeys": "74fccd15-7852-11ee-9278-6f12399dc3b5.jpg",
+    "confirmed": "2023-11-01T17:43:57.000",
+    "created": "2023-11-01T10:03:27.670",
+    "checkIn": "2023-11-01T10:03:18.000",
+    "checkOut": null,
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "74fccd15-7852-11ee-9278-6f12399dc3b5.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/74fccd15-7852-11ee-9278-6f12399dc3b5.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": true,
+    "isDeleted": false
+    },
+    "checkOut": {
+    "id": 158768,
+    "work": "단순노무자",
+    "latitude": 37.57776,
+    "longitude": 126.97448,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkout",
+    "photoKeys": "f93c6ef3-789d-11ee-be20-1dfbcc4ebbbc.jpg",
+    "confirmed": null,
+    "created": "2023-11-01T19:04:07.119",
+    "checkIn": null,
+    "checkOut": "2023-11-01T19:03:52.000",
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "f93c6ef3-789d-11ee-be20-1dfbcc4ebbbc.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/f93c6ef3-789d-11ee-be20-1dfbcc4ebbbc.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "dailyWorkHours": "09:00"
+    },
+    {
+    "date": "2023-11-02",
+    "checkIn": {
+    "id": 158900,
+    "work": null,
+    "latitude": 37.577694,
+    "longitude": 126.97373,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": 323,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkin",
+    "photoKeys": "8182ba72-791b-11ee-9278-4d634159b5f0.jpg",
+    "confirmed": "2023-11-02T18:06:42.000",
+    "created": "2023-11-02T10:02:37.186",
+    "checkIn": "2023-11-02T10:02:27.000",
+    "checkOut": null,
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "8182ba72-791b-11ee-9278-4d634159b5f0.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/8182ba72-791b-11ee-9278-4d634159b5f0.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": true,
+    "isDeleted": false
+    },
+    "checkOut": {
+    "id": 158906,
+    "work": "단순노무자",
+    "latitude": 37.577995,
+    "longitude": 126.97357,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": "컬러값 적용 중",
+    "operatorId": 323,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkout",
+    "photoKeys": "be8e3169-7948-11ee-be20-230bc079a2eb.jpg",
+    "confirmed": "2023-11-02T19:44:25.000",
+    "created": "2023-11-02T15:26:37.634",
+    "checkIn": null,
+    "checkOut": "2023-11-02T15:26:19.000",
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "be8e3169-7948-11ee-be20-230bc079a2eb.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/be8e3169-7948-11ee-be20-230bc079a2eb.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": true,
+    "isDeleted": false
+    },
+    "dailyWorkHours": "05:23"
+    },
+    {
+    "date": "2023-11-03",
+    "checkIn": {
+    "id": 159144,
+    "work": null,
+    "latitude": 37.63632,
+    "longitude": 127.02514,
+    "userId": 85,
+    "siteId": 90,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 90,
+    "name": "김용호 재택근무지",
+    "address": "오패산로 77길 32",
+    "latitude": 37.63637,
+    "longitude": 127.02515,
+    "memo": null,
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 600,
+    "photoKeys": null,
+    "polygonList": null,
+    "siteType": null,
+    "closed": "2027-09-19T10:13:09.000",
+    "activated": "2022-09-07T10:10:56.000",
+    "deleted": null,
+    "created": "2022-09-13T10:10:56.228",
+    "siteManagerId": null,
+    "siteOfficeManagerId": null,
+    "structure": null,
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "창고",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [],
+    "polygon": [],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkin",
+    "photoKeys": "84e25c67-79db-11ee-9278-03676409d356.jpg",
+    "confirmed": null,
+    "created": "2023-11-03T08:57:06.818",
+    "checkIn": "2023-11-03T08:55:48.000",
+    "checkOut": null,
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "84e25c67-79db-11ee-9278-03676409d356.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/84e25c67-79db-11ee-9278-03676409d356.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "checkOut": {
+    "id": 159269,
+    "work": "단순노무자",
+    "latitude": 37.63632,
+    "longitude": 127.02514,
+    "userId": 85,
+    "siteId": 90,
+    "workDescription": "스낵바 알람 종류마다 컬러 변경",
+    "operatorId": null,
+    "site": {
+    "id": 90,
+    "name": "김용호 재택근무지",
+    "address": "오패산로 77길 32",
+    "latitude": 37.63637,
+    "longitude": 127.02515,
+    "memo": null,
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 600,
+    "photoKeys": null,
+    "polygonList": null,
+    "siteType": null,
+    "closed": "2027-09-19T10:13:09.000",
+    "activated": "2022-09-07T10:10:56.000",
+    "deleted": null,
+    "created": "2022-09-13T10:10:56.228",
+    "siteManagerId": null,
+    "siteOfficeManagerId": null,
+    "structure": null,
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "창고",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [],
+    "polygon": [],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkout",
+    "photoKeys": "71ccad37-7a2d-11ee-9278-27526230b639.jpg",
+    "confirmed": null,
+    "created": "2023-11-03T18:43:51.398",
+    "checkIn": null,
+    "checkOut": "2023-11-03T18:43:10.000",
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "71ccad37-7a2d-11ee-9278-27526230b639.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/71ccad37-7a2d-11ee-9278-27526230b639.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "dailyWorkHours": "09:47"
+    },
+    {
+    "date": "2023-11-06",
+    "checkIn": {
+    "id": 159588,
+    "work": null,
+    "latitude": 37.578106,
+    "longitude": 126.9736,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkin",
+    "photoKeys": "81f5cfa3-7c42-11ee-be20-dba81e23afce.jpg",
+    "confirmed": null,
+    "created": "2023-11-06T10:19:22.629",
+    "checkIn": "2023-11-06T10:19:15.000",
+    "checkOut": null,
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "81f5cfa3-7c42-11ee-be20-dba81e23afce.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/81f5cfa3-7c42-11ee-be20-dba81e23afce.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "checkOut": {
+    "id": 159706,
+    "work": "단순노무자",
+    "latitude": 37.577633,
+    "longitude": 126.97334,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkout",
+    "photoKeys": "5a815744-7c8e-11ee-be20-83f9e616f66b.jpg",
+    "confirmed": null,
+    "created": "2023-11-06T19:22:21.205",
+    "checkIn": null,
+    "checkOut": "2023-11-06T19:22:09.000",
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "5a815744-7c8e-11ee-be20-83f9e616f66b.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/5a815744-7c8e-11ee-be20-83f9e616f66b.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "dailyWorkHours": "09:02"
+    },
+    {
+    "date": "2023-11-07",
+    "checkIn": {
+    "id": 159826,
+    "work": null,
+    "latitude": 37.636387,
+    "longitude": 127.02516,
+    "userId": 85,
+    "siteId": 90,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 90,
+    "name": "김용호 재택근무지",
+    "address": "오패산로 77길 32",
+    "latitude": 37.63637,
+    "longitude": 127.02515,
+    "memo": null,
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 600,
+    "photoKeys": null,
+    "polygonList": null,
+    "siteType": null,
+    "closed": "2027-09-19T10:13:09.000",
+    "activated": "2022-09-07T10:10:56.000",
+    "deleted": null,
+    "created": "2022-09-13T10:10:56.228",
+    "siteManagerId": null,
+    "siteOfficeManagerId": null,
+    "structure": null,
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "창고",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [],
+    "polygon": [],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkin",
+    "photoKeys": "a598a003-7d07-11ee-9278-2b2686055562.jpg",
+    "confirmed": null,
+    "created": "2023-11-07T09:50:33.222",
+    "checkIn": "2023-11-07T09:50:19.000",
+    "checkOut": null,
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "a598a003-7d07-11ee-9278-2b2686055562.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/a598a003-7d07-11ee-9278-2b2686055562.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "checkOut": {
+    "id": 159948,
+    "work": "철거",
+    "latitude": 37.635155,
+    "longitude": 127.02807,
+    "userId": 85,
+    "siteId": 90,
+    "workDescription": "관리자 대시보드 구성 중",
+    "operatorId": null,
+    "site": {
+    "id": 90,
+    "name": "김용호 재택근무지",
+    "address": "오패산로 77길 32",
+    "latitude": 37.63637,
+    "longitude": 127.02515,
+    "memo": null,
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 600,
+    "photoKeys": null,
+    "polygonList": null,
+    "siteType": null,
+    "closed": "2027-09-19T10:13:09.000",
+    "activated": "2022-09-07T10:10:56.000",
+    "deleted": null,
+    "created": "2022-09-13T10:10:56.228",
+    "siteManagerId": null,
+    "siteOfficeManagerId": null,
+    "structure": null,
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "창고",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [],
+    "polygon": [],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkout",
+    "photoKeys": "0516e88a-7d5a-11ee-be20-5bbff0f9b7ad.jpg",
+    "confirmed": null,
+    "created": "2023-11-07T19:40:23.583",
+    "checkIn": null,
+    "checkOut": "2023-11-07T19:39:41.000",
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "0516e88a-7d5a-11ee-be20-5bbff0f9b7ad.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/0516e88a-7d5a-11ee-be20-5bbff0f9b7ad.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "dailyWorkHours": "09:49"
+    },
+    {
+    "date": "2023-11-08",
+    "checkIn": {
+    "id": 160066,
+    "work": null,
+    "latitude": 37.57763,
+    "longitude": 126.97352,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": 323,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkin",
+    "photoKeys": "428655dd-7dd5-11ee-be20-379e841b5362.jpg",
+    "confirmed": "2023-11-08T11:27:48.000",
+    "created": "2023-11-08T10:22:22.969",
+    "checkIn": "2023-11-08T10:22:15.000",
+    "checkOut": null,
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "428655dd-7dd5-11ee-be20-379e841b5362.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/428655dd-7dd5-11ee-be20-379e841b5362.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": true,
+    "isDeleted": false
+    },
+    "checkOut": {
+    "id": 160184,
+    "work": "단순노무자",
+    "latitude": 37.577713,
+    "longitude": 126.97348,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkout",
+    "photoKeys": "0d5b4674-7e21-11ee-be20-f571101c5b15.jpg",
+    "confirmed": null,
+    "created": "2023-11-08T19:24:58.157",
+    "checkIn": null,
+    "checkOut": "2023-11-08T19:24:48.000",
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "0d5b4674-7e21-11ee-be20-f571101c5b15.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/0d5b4674-7e21-11ee-be20-f571101c5b15.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "dailyWorkHours": "09:02"
+    },
+    {
+    "date": "2023-11-09",
+    "checkIn": {
+    "id": 160303,
+    "work": null,
+    "latitude": 37.577984,
+    "longitude": 126.97362,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": 323,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkin",
+    "photoKeys": "0b731595-7ea1-11ee-be20-b9cf2ef66087.jpg",
+    "confirmed": "2023-11-09T10:54:26.000",
+    "created": "2023-11-09T10:41:08.468",
+    "checkIn": "2023-11-09T10:41:00.000",
+    "checkOut": null,
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "0b731595-7ea1-11ee-be20-b9cf2ef66087.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/0b731595-7ea1-11ee-be20-b9cf2ef66087.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": true,
+    "isDeleted": false
+    },
+    "checkOut": {
+    "id": 160417,
+    "work": "단순노무자",
+    "latitude": 37.577713,
+    "longitude": 126.97348,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkout",
+    "photoKeys": "1460c919-7eed-11ee-9278-35b435a00c7f.jpg",
+    "confirmed": null,
+    "created": "2023-11-09T19:45:27.180",
+    "checkIn": null,
+    "checkOut": "2023-11-09T19:44:55.000",
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "1460c919-7eed-11ee-9278-35b435a00c7f.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/1460c919-7eed-11ee-9278-35b435a00c7f.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "dailyWorkHours": "09:03"
+    },
+    {
+    "date": "2023-11-10",
+    "checkIn": {
+    "id": 160528,
+    "work": null,
+    "latitude": 37.577408,
+    "longitude": 126.973434,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": 323,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkin",
+    "photoKeys": "4714211b-7f65-11ee-9278-8b66b8e8f912.jpg",
+    "confirmed": "2023-11-10T10:10:52.000",
+    "created": "2023-11-10T10:05:49.831",
+    "checkIn": "2023-11-10T10:05:42.000",
+    "checkOut": null,
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "4714211b-7f65-11ee-9278-8b66b8e8f912.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/4714211b-7f65-11ee-9278-8b66b8e8f912.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": true,
+    "isDeleted": false
+    },
+    "checkOut": {
+    "id": 160637,
+    "work": "철거",
+    "latitude": 37.57781,
+    "longitude": 126.973404,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkout",
+    "photoKeys": "62610bea-7fb1-11ee-be20-5d782e03562b.jpg",
+    "confirmed": null,
+    "created": "2023-11-10T19:10:40.321",
+    "checkIn": null,
+    "checkOut": "2023-11-10T19:10:26.000",
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "62610bea-7fb1-11ee-be20-5d782e03562b.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/62610bea-7fb1-11ee-be20-5d782e03562b.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "dailyWorkHours": "09:04"
+    },
+    {
+    "date": "2023-11-13",
+    "checkIn": {
+    "id": 160940,
+    "work": null,
+    "latitude": 37.578045,
+    "longitude": 126.973526,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": 323,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkin",
+    "photoKeys": "640f0719-81c9-11ee-be20-13004e9325e1.jpg",
+    "confirmed": "2023-11-13T11:09:41.000",
+    "created": "2023-11-13T11:07:30.216",
+    "checkIn": "2023-11-13T11:07:21.000",
+    "checkOut": null,
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "640f0719-81c9-11ee-be20-13004e9325e1.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/640f0719-81c9-11ee-be20-13004e9325e1.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": true,
+    "isDeleted": false
+    },
+    "checkOut": {
+    "id": 161050,
+    "work": "단순노무자",
+    "latitude": 37.57795,
+    "longitude": 126.973465,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkout",
+    "photoKeys": "17fa07fc-8215-11ee-be20-2f8b39578375.jpg",
+    "confirmed": null,
+    "created": "2023-11-13T20:09:26.726",
+    "checkIn": null,
+    "checkOut": "2023-11-13T20:09:16.000",
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "17fa07fc-8215-11ee-be20-2f8b39578375.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/17fa07fc-8215-11ee-be20-2f8b39578375.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "dailyWorkHours": "09:01"
+    },
+    {
+    "date": "2023-11-14",
+    "checkIn": {
+    "id": 161168,
+    "work": null,
+    "latitude": 37.577335,
+    "longitude": 126.97292,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkin",
+    "photoKeys": "298dfcd4-828b-11ee-be20-23dd1ae254eb.jpg",
+    "confirmed": null,
+    "created": "2023-11-14T10:14:34.582",
+    "checkIn": "2023-11-14T10:14:17.000",
+    "checkOut": null,
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "298dfcd4-828b-11ee-be20-23dd1ae254eb.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/298dfcd4-828b-11ee-be20-23dd1ae254eb.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "checkOut": {
+    "id": 161275,
+    "work": "단순노무자",
+    "latitude": 37.577427,
+    "longitude": 126.973526,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkout",
+    "photoKeys": "f5349449-82d6-11ee-be20-e146df3397be.jpg",
+    "confirmed": null,
+    "created": "2023-11-14T19:17:11.548",
+    "checkIn": null,
+    "checkOut": "2023-11-14T19:17:00.000",
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "f5349449-82d6-11ee-be20-e146df3397be.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/f5349449-82d6-11ee-be20-e146df3397be.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "dailyWorkHours": "09:02"
+    },
+    {
+    "date": "2023-11-15",
+    "checkIn": {
+    "id": 161390,
+    "work": null,
+    "latitude": 37.57768,
+    "longitude": 126.9736,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": 323,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkin",
+    "photoKeys": "5f149bea-835c-11ee-be20-a14957c49732.jpg",
+    "confirmed": "2023-11-15T18:11:11.000",
+    "created": "2023-11-15T11:12:10.141",
+    "checkIn": "2023-11-15T11:11:57.000",
+    "checkOut": null,
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "5f149bea-835c-11ee-be20-a14957c49732.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/5f149bea-835c-11ee-be20-a14957c49732.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": true,
+    "isDeleted": false
+    },
+    "checkOut": {
+    "id": 161500,
+    "work": "단순노무자",
+    "latitude": 37.577927,
+    "longitude": 126.97351,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkout",
+    "photoKeys": "2fd7cc6b-83a8-11ee-be20-1ba61ebd45c2.jpg",
+    "confirmed": null,
+    "created": "2023-11-15T20:14:53.833",
+    "checkIn": null,
+    "checkOut": "2023-11-15T20:14:42.000",
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "2fd7cc6b-83a8-11ee-be20-1ba61ebd45c2.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/2fd7cc6b-83a8-11ee-be20-1ba61ebd45c2.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "dailyWorkHours": "09:02"
+    },
+    {
+    "date": "2023-11-17",
+    "checkIn": {
+    "id": 161864,
+    "work": null,
+    "latitude": 37.6363,
+    "longitude": 127.02512,
+    "userId": 85,
+    "siteId": 90,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 90,
+    "name": "김용호 재택근무지",
+    "address": "오패산로 77길 32",
+    "latitude": 37.63637,
+    "longitude": 127.02515,
+    "memo": null,
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 600,
+    "photoKeys": null,
+    "polygonList": null,
+    "siteType": null,
+    "closed": "2027-09-19T10:13:09.000",
+    "activated": "2022-09-07T10:10:56.000",
+    "deleted": null,
+    "created": "2022-09-13T10:10:56.228",
+    "siteManagerId": null,
+    "siteOfficeManagerId": null,
+    "structure": null,
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "창고",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [],
+    "polygon": [],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkin",
+    "photoKeys": "806a6773-84e8-11ee-be20-216853bd4bad.jpg",
+    "confirmed": null,
+    "created": "2023-11-17T10:27:46.008",
+    "checkIn": "2023-11-17T10:27:25.000",
+    "checkOut": null,
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "806a6773-84e8-11ee-be20-216853bd4bad.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/806a6773-84e8-11ee-be20-216853bd4bad.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "checkOut": {
+    "id": 161975,
+    "work": "단순노무자",
+    "latitude": 37.635643,
+    "longitude": 127.028595,
+    "userId": 85,
+    "siteId": 90,
+    "workDescription": "월주일 MUI 마이그레이션 작업",
+    "operatorId": null,
+    "site": {
+    "id": 90,
+    "name": "김용호 재택근무지",
+    "address": "오패산로 77길 32",
+    "latitude": 37.63637,
+    "longitude": 127.02515,
+    "memo": null,
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 600,
+    "photoKeys": null,
+    "polygonList": null,
+    "siteType": null,
+    "closed": "2027-09-19T10:13:09.000",
+    "activated": "2022-09-07T10:10:56.000",
+    "deleted": null,
+    "created": "2022-09-13T10:10:56.228",
+    "siteManagerId": null,
+    "siteOfficeManagerId": null,
+    "structure": null,
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "창고",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [],
+    "polygon": [],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkout",
+    "photoKeys": "9e120360-8537-11ee-ad5d-5156834cedb8.jpg",
+    "confirmed": null,
+    "created": "2023-11-17T19:54:16.080",
+    "checkIn": null,
+    "checkOut": "2023-11-17T19:53:54.000",
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "9e120360-8537-11ee-ad5d-5156834cedb8.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/9e120360-8537-11ee-ad5d-5156834cedb8.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "dailyWorkHours": "09:26"
+    },
+    {
+    "date": "2023-11-20",
+    "checkIn": {
+    "id": 162285,
+    "work": null,
+    "latitude": 37.6363,
+    "longitude": 127.02512,
+    "userId": 85,
+    "siteId": 90,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 90,
+    "name": "김용호 재택근무지",
+    "address": "오패산로 77길 32",
+    "latitude": 37.63637,
+    "longitude": 127.02515,
+    "memo": null,
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 600,
+    "photoKeys": null,
+    "polygonList": null,
+    "siteType": null,
+    "closed": "2027-09-19T10:13:09.000",
+    "activated": "2022-09-07T10:10:56.000",
+    "deleted": null,
+    "created": "2022-09-13T10:10:56.228",
+    "siteManagerId": null,
+    "siteOfficeManagerId": null,
+    "structure": null,
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "창고",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [],
+    "polygon": [],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkin",
+    "photoKeys": "29b8484b-8745-11ee-a872-437ed5b20a6b.jpg",
+    "confirmed": null,
+    "created": "2023-11-20T10:36:05.617",
+    "checkIn": "2023-11-20T10:35:43.000",
+    "checkOut": null,
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "29b8484b-8745-11ee-a872-437ed5b20a6b.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/29b8484b-8745-11ee-a872-437ed5b20a6b.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "checkOut": {
+    "id": 162396,
+    "work": "단순노무자",
+    "latitude": 37.6363,
+    "longitude": 127.02512,
+    "userId": 85,
+    "siteId": 90,
+    "workDescription": "인력 근무 MUI 마이그레이션 진행 중",
+    "operatorId": null,
+    "site": {
+    "id": 90,
+    "name": "김용호 재택근무지",
+    "address": "오패산로 77길 32",
+    "latitude": 37.63637,
+    "longitude": 127.02515,
+    "memo": null,
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 600,
+    "photoKeys": null,
+    "polygonList": null,
+    "siteType": null,
+    "closed": "2027-09-19T10:13:09.000",
+    "activated": "2022-09-07T10:10:56.000",
+    "deleted": null,
+    "created": "2022-09-13T10:10:56.228",
+    "siteManagerId": null,
+    "siteOfficeManagerId": null,
+    "structure": null,
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "창고",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [],
+    "polygon": [],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkout",
+    "photoKeys": "ddb34dc2-8790-11ee-a872-dd6eea949df2.jpg",
+    "confirmed": null,
+    "created": "2023-11-20T19:38:25.774",
+    "checkIn": null,
+    "checkOut": "2023-11-20T19:37:50.000",
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "ddb34dc2-8790-11ee-a872-dd6eea949df2.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/ddb34dc2-8790-11ee-a872-dd6eea949df2.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "dailyWorkHours": "09:02"
+    },
+    {
+    "date": "2023-11-21",
+    "checkIn": {
+    "id": 162514,
+    "work": null,
+    "latitude": 37.57705,
+    "longitude": 126.97306,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": 323,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkin",
+    "photoKeys": "c11081ad-8811-11ee-a872-95c977fe2c6b.jpg",
+    "confirmed": "2023-11-21T18:15:10.000",
+    "created": "2023-11-21T11:00:36.455",
+    "checkIn": "2023-11-21T11:00:30.000",
+    "checkOut": null,
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "c11081ad-8811-11ee-a872-95c977fe2c6b.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/c11081ad-8811-11ee-a872-95c977fe2c6b.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": true,
+    "isDeleted": false
+    },
+    "checkOut": {
+    "id": 162625,
+    "work": "단순노무자",
+    "latitude": 37.577656,
+    "longitude": 126.973465,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkout",
+    "photoKeys": "717409e7-885d-11ee-b624-7fabb2c6970b.jpg",
+    "confirmed": null,
+    "created": "2023-11-21T20:02:27.863",
+    "checkIn": null,
+    "checkOut": "2023-11-21T20:02:16.000",
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "717409e7-885d-11ee-b624-7fabb2c6970b.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/717409e7-885d-11ee-b624-7fabb2c6970b.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "dailyWorkHours": "09:01"
+    },
+    {
+    "date": "2023-11-27",
+    "checkIn": {
+    "id": 163582,
+    "work": null,
+    "latitude": 37.577435,
+    "longitude": 126.97313,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": 323,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkin",
+    "photoKeys": "174cac8f-8cc9-11ee-a41f-e51d9034774c.jpg",
+    "confirmed": "2023-11-27T11:03:50.000",
+    "created": "2023-11-27T11:03:04.268",
+    "checkIn": "2023-11-27T11:02:56.000",
+    "checkOut": null,
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "174cac8f-8cc9-11ee-a41f-e51d9034774c.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/174cac8f-8cc9-11ee-a41f-e51d9034774c.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": true,
+    "isDeleted": false
+    },
+    "checkOut": {
+    "id": 163701,
+    "work": "단순노무자",
+    "latitude": 37.577644,
+    "longitude": 126.97346,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkout",
+    "photoKeys": "db2a51a6-8d14-11ee-9a49-df6f0e5772bd.jpg",
+    "confirmed": null,
+    "created": "2023-11-27T20:05:27.371",
+    "checkIn": null,
+    "checkOut": "2023-11-27T20:05:16.000",
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "db2a51a6-8d14-11ee-9a49-df6f0e5772bd.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/db2a51a6-8d14-11ee-9a49-df6f0e5772bd.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "dailyWorkHours": "09:02"
+    },
+    {
+    "date": "2023-11-28",
+    "checkIn": {
+    "id": 163826,
+    "work": null,
+    "latitude": 37.577126,
+    "longitude": 126.973755,
+    "userId": 85,
+    "siteId": 22,
+    "workDescription": null,
+    "operatorId": null,
+    "site": {
+    "id": 22,
+    "name": "통의동 사무실",
+    "address": "서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577717,
+    "longitude": 126.97345,
+    "memo": "빌드프롭 광화문 사무실입니다.",
+    "companyId": 4,
+    "userId": 85,
+    "roadAddress": null,
+    "attendanceAvailableDistance": 100,
+    "photoKeys": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "polygonList": "37.577977414675296/126.97322360812038,37.57736921918376/126.97311627970934,37.5775315971728/126.97400489449082,37.57802261649648/126.97390283702622",
+    "siteType": "office",
+    "closed": "2023-08-25T19:13:52.000",
+    "activated": "2021-09-06T16:40:23.000",
+    "deleted": null,
+    "created": "2021-09-06T16:40:23.171",
+    "siteManagerId": 89,
+    "siteOfficeManagerId": 1423,
+    "structure": "",
+    "dimension": null,
+    "floorArea": null,
+    "floorAreaRatio": null,
+    "siteTypeDisplayName": "사무실",
+    "siteManagerName": null,
+    "siteOfficeManagerName": null,
+    "photos": [
+    {
+    "prefix": "sites/512",
+    "id": "12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/sites/512/12d01112-f1f5-11ec-a0f8-0bb30fedaea6.jpg"
+    }
+    ],
+    "polygon": [
+    {
+    "polygons": "37.577977414675296/126.97322360812038",
+    "x": 37.577976,
+    "y": 126.97322
+    },
+    {
+    "polygons": "37.57736921918376/126.97311627970934",
+    "x": 37.57737,
+    "y": 126.973114
+    },
+    {
+    "polygons": "37.5775315971728/126.97400489449082",
+    "x": 37.57753,
+    "y": 126.97401
+    },
+    {
+    "polygons": "37.57802261649648/126.97390283702622",
+    "x": 37.578022,
+    "y": 126.9739
+    }
+    ],
+    "weathers": [
+    {
+    "id": 0,
+    "time": "현재",
+    "status": "맑음"
+    },
+    {
+    "id": 1,
+    "time": "+1H",
+    "status": "흐림"
+    },
+    {
+    "id": 2,
+    "time": "+2H",
+    "status": "흐림"
+    },
+    {
+    "id": 3,
+    "time": "+3H",
+    "status": "흐림"
+    },
+    {
+    "id": 4,
+    "time": "+4H",
+    "status": "흐림"
+    },
+    {
+    "id": 5,
+    "time": "+5H",
+    "status": "흐림"
+    }
+    ],
+    "company": null,
+    "siteNotice": [],
+    "hasPermit": null
+    },
+    "attendanceType": "checkin",
+    "photoKeys": "3b006a03-8d8a-11ee-a41f-5b7b1d96bf03.jpg",
+    "confirmed": null,
+    "created": "2023-11-28T10:05:36.715",
+    "checkIn": "2023-11-28T10:05:29.000",
+    "checkOut": null,
+    "photo": {
+    "prefix": "attendances/512",
+    "id": "3b006a03-8d8a-11ee-a41f-5b7b1d96bf03.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/attendances/512/3b006a03-8d8a-11ee-a41f-5b7b1d96bf03.jpg"
+    },
+    "updateWorkDescription": null,
+    "updateOperatorId": null,
+    "updated": null,
+    "isConfirmed": false,
+    "isDeleted": false
+    },
+    "checkOut": null,
+    "dailyWorkHours": null
+    }
+    ]
+    }
+    }
