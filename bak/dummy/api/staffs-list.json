@@ -343,7 +343,7 @@
     "position": "사원",
     "phone": "01042452372",
     "state": "active",
-    "userState": "working",
+    "userState": "resigned",
     "user": {
     "id": 89,
     "phone": "01042452372",
@@ -451,7 +451,7 @@
     "position": "인부",
     "phone": "01099999990",
     "state": "active",
-    "userState": "working",
+    "userState": "resigned",
     "user": {
     "id": 1511,
     "phone": "01099999990",
@@ -502,7 +502,7 @@
     "position": "파트장",
     "phone": "01074283854",
     "state": "active",
-    "userState": "working",
+    "userState": "resigned",
     "user": {
     "id": 4,
     "phone": "01074283854",
@@ -555,7 +555,7 @@
     "position": "이사",
     "phone": "01031160250",
     "state": "active",
-    "userState": "working",
+    "userState": "resigned",
     "user": {
     "id": 84,
     "phone": "01031160250",
@@ -608,7 +608,7 @@
     "position": "과장",
     "phone": "01037062372",
     "state": "active",
-    "userState": "working",
+    "userState": "resigned",
     "user": {
     "id": 1,
     "phone": "01037062372",
@@ -725,7 +725,7 @@
     "position": "공무",
     "phone": "01075326198",
     "state": "active",
-    "userState": "working",
+    "userState": "resigned",
     "user": {
     "id": 1423,
     "phone": "01075326198",
