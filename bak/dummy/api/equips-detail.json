@@ -1,0 +1,87 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+    "id": 170,
+    "companyId": 4,
+    "siteId": 22,
+    "userId": 90,
+    "categoryId": 30,
+    "manufacturerId": 1,
+    "photoKeys": "15879fff-1dfb-11ed-b715-e3772664891e.jpg,1221e04d-1dfb-11ed-8039-c73a5567672c.jpg,10a5c70e-1dfb-11ed-b715-ff46b546e8e5.jpg",
+    "serialphotosKeys": null,
+    "dateOfManufacture": null,
+    "serials": null,
+    "name": "캡슐머신",
+    "color": null,
+    "comment": "캡슐머신",
+    "serialStatus": "none",
+    "created": "2022-08-17T16:06:21.899",
+    "equipmentCategory": {
+    "id": 30,
+    "name": "사무용품",
+    "photoKeys": "a0370702-d266-11eb-b4d7-59d57c63b11a.png",
+    "photos": [
+    {
+    "prefix": "equipments/512",
+    "id": "a0370702-d266-11eb-b4d7-59d57c63b11a.png",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/a0370702-d266-11eb-b4d7-59d57c63b11a.png"
+    }
+    ],
+    "created": "2021-06-29T01:46:38.373"
+    },
+    "equipmentManufacturer": {
+    "id": 1,
+    "name": "기타",
+    "photos": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
+    "color": "999999",
+    "created": "2021-06-16T13:49:00.888"
+    },
+    "equipmentSticker": {
+    "id": 283,
+    "name": "015-0003",
+    "bleMacAddress": "ac233fa9de74"
+    },
+    "partParentId": 0,
+    "partName": "본체",
+    "stickerId": 283,
+    "equipState": "in_use",
+    "standard": null,
+    "purchased": null,
+    "warehoused": "2023-08-02T00:00:00.000",
+    "site": null,
+    "companyName": null,
+    "partHistory": {
+    "id": 87099,
+    "stickerId": 283,
+    "userId": 323,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 통의동",
+    "latitude": 37.577747,
+    "longitude": 126.97353,
+    "created": "2023-12-21T14:40:56.031"
+    },
+    "photos": [
+    {
+    "prefix": "equipments/512",
+    "id": "15879fff-1dfb-11ed-b715-e3772664891e.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/15879fff-1dfb-11ed-b715-e3772664891e.jpg"
+    },
+    {
+    "prefix": "equipments/512",
+    "id": "1221e04d-1dfb-11ed-8039-c73a5567672c.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/1221e04d-1dfb-11ed-8039-c73a5567672c.jpg"
+    },
+    {
+    "prefix": "equipments/512",
+    "id": "10a5c70e-1dfb-11ed-b715-ff46b546e8e5.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/10a5c70e-1dfb-11ed-b715-ff46b546e8e5.jpg"
+    }
+    ],
+    "serialPhotos": []
+    }
+    }

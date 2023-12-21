@@ -1,0 +1,626 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+    {
+    "date": "2023-12-21",
+    "histories": [
+    {
+    "id": 87099,
+    "stickerId": 283,
+    "userId": 323,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 통의동",
+    "latitude": 37.577747,
+    "longitude": 126.97353,
+    "created": "2023-12-21T14:40:56.031"
+    },
+    {
+    "id": 87072,
+    "stickerId": 283,
+    "userId": 49,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 통의동",
+    "latitude": 37.577652,
+    "longitude": 126.973595,
+    "created": "2023-12-21T11:45:26.194"
+    },
+    {
+    "id": 87060,
+    "stickerId": 283,
+    "userId": 90,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 통의동",
+    "latitude": 37.577892,
+    "longitude": 126.97358,
+    "created": "2023-12-21T10:04:10.335"
+    }
+    ]
+    },
+    {
+    "date": "2023-12-20",
+    "histories": [
+    {
+    "id": 87012,
+    "stickerId": 283,
+    "userId": 885,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 통의동",
+    "latitude": 37.577602,
+    "longitude": 126.97363,
+    "created": "2023-12-20T19:15:58.903"
+    },
+    {
+    "id": 86964,
+    "stickerId": 283,
+    "userId": 885,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 통의동",
+    "latitude": 37.577602,
+    "longitude": 126.97363,
+    "created": "2023-12-20T16:30:59.844"
+    },
+    {
+    "id": 86929,
+    "stickerId": 283,
+    "userId": 885,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 통의동",
+    "latitude": 37.577602,
+    "longitude": 126.97363,
+    "created": "2023-12-20T15:30:33.213"
+    }
+    ]
+    },
+    {
+    "date": "2023-12-19",
+    "histories": [
+    {
+    "id": 86865,
+    "stickerId": 283,
+    "userId": 885,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 통의동",
+    "latitude": 37.577602,
+    "longitude": 126.97363,
+    "created": "2023-12-19T20:22:37.703"
+    },
+    {
+    "id": 86854,
+    "stickerId": 283,
+    "userId": 1282,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.57773,
+    "longitude": 126.973434,
+    "created": "2023-12-19T19:42:52.305"
+    },
+    {
+    "id": 86799,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577724,
+    "longitude": 126.97344,
+    "created": "2023-12-19T18:15:02.529"
+    },
+    {
+    "id": 86785,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577736,
+    "longitude": 126.973434,
+    "created": "2023-12-19T17:15:42.681"
+    },
+    {
+    "id": 86734,
+    "stickerId": 283,
+    "userId": 1282,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577724,
+    "longitude": 126.97344,
+    "created": "2023-12-19T16:25:32.906"
+    },
+    {
+    "id": 86700,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.57773,
+    "longitude": 126.97344,
+    "created": "2023-12-19T15:14:42.993"
+    },
+    {
+    "id": 86671,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577732,
+    "longitude": 126.97345,
+    "created": "2023-12-19T14:28:23.130"
+    },
+    {
+    "id": 86631,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.57773,
+    "longitude": 126.97344,
+    "created": "2023-12-19T13:01:13.363"
+    },
+    {
+    "id": 86587,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.57774,
+    "longitude": 126.97345,
+    "created": "2023-12-19T11:01:33.676"
+    },
+    {
+    "id": 86577,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.57774,
+    "longitude": 126.97344,
+    "created": "2023-12-19T10:16:43.788"
+    },
+    {
+    "id": 86526,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577736,
+    "longitude": 126.97344,
+    "created": "2023-12-19T09:01:33.969"
+    },
+    {
+    "id": 86503,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577732,
+    "longitude": 126.97345,
+    "created": "2023-12-19T08:01:34.202"
+    },
+    {
+    "id": 86478,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577736,
+    "longitude": 126.973465,
+    "created": "2023-12-19T07:01:54.283"
+    },
+    {
+    "id": 86431,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577736,
+    "longitude": 126.97346,
+    "created": "2023-12-19T06:01:44.473"
+    },
+    {
+    "id": 86389,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577732,
+    "longitude": 126.97344,
+    "created": "2023-12-19T05:01:34.577"
+    },
+    {
+    "id": 86338,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.57774,
+    "longitude": 126.97346,
+    "created": "2023-12-19T04:01:24.974"
+    },
+    {
+    "id": 86323,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577744,
+    "longitude": 126.97346,
+    "created": "2023-12-19T03:01:34.900"
+    },
+    {
+    "id": 86280,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577736,
+    "longitude": 126.97346,
+    "created": "2023-12-19T02:01:25.137"
+    },
+    {
+    "id": 86250,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577732,
+    "longitude": 126.97346,
+    "created": "2023-12-19T01:01:25.193"
+    },
+    {
+    "id": 86221,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577732,
+    "longitude": 126.973465,
+    "created": "2023-12-19T00:01:25.356"
+    }
+    ]
+    },
+    {
+    "date": "2023-12-18",
+    "histories": [
+    {
+    "id": 86204,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577736,
+    "longitude": 126.97346,
+    "created": "2023-12-18T23:01:35.503"
+    },
+    {
+    "id": 86163,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577736,
+    "longitude": 126.97346,
+    "created": "2023-12-18T22:01:25.661"
+    },
+    {
+    "id": 86144,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577732,
+    "longitude": 126.97344,
+    "created": "2023-12-18T21:01:35.813"
+    },
+    {
+    "id": 86105,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.57774,
+    "longitude": 126.97346,
+    "created": "2023-12-18T20:01:25.955"
+    },
+    {
+    "id": 86070,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.57773,
+    "longitude": 126.97344,
+    "created": "2023-12-18T19:00:56.130"
+    },
+    {
+    "id": 86061,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577724,
+    "longitude": 126.97344,
+    "created": "2023-12-18T18:30:56.220"
+    },
+    {
+    "id": 86008,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577724,
+    "longitude": 126.97344,
+    "created": "2023-12-18T17:01:16.450"
+    },
+    {
+    "id": 85957,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577732,
+    "longitude": 126.973434,
+    "created": "2023-12-18T16:01:06.663"
+    },
+    {
+    "id": 85917,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577732,
+    "longitude": 126.97344,
+    "created": "2023-12-18T15:00:56.771"
+    },
+    {
+    "id": 85906,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577747,
+    "longitude": 126.97343,
+    "created": "2023-12-18T14:16:16.896"
+    },
+    {
+    "id": 85858,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.57774,
+    "longitude": 126.973434,
+    "created": "2023-12-18T13:01:07.117"
+    },
+    {
+    "id": 85833,
+    "stickerId": 283,
+    "userId": 1511,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.57774,
+    "longitude": 126.973434,
+    "created": "2023-12-18T12:01:07.251"
+    },
+    {
+    "id": 85778,
+    "stickerId": 283,
+    "userId": 90,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577732,
+    "longitude": 126.973434,
+    "created": "2023-12-18T11:12:47.378"
+    },
+    {
+    "id": 85750,
+    "stickerId": 283,
+    "userId": 90,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 ",
+    "latitude": 37.57877,
+    "longitude": 126.97191,
+    "created": "2023-12-18T10:06:35.407"
+    }
+    ]
+    },
+    {
+    "date": "2023-12-17",
+    "histories": [
+    {
+    "id": 85721,
+    "stickerId": 283,
+    "userId": 90,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577736,
+    "longitude": 126.973434,
+    "created": "2023-12-17T21:27:59.419"
+    },
+    {
+    "id": 85705,
+    "stickerId": 283,
+    "userId": 1423,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577724,
+    "longitude": 126.97345,
+    "created": "2023-12-17T20:06:19.587"
+    },
+    {
+    "id": 85675,
+    "stickerId": 283,
+    "userId": 90,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577724,
+    "longitude": 126.97344,
+    "created": "2023-12-17T03:13:12.200"
+    }
+    ]
+    },
+    {
+    "date": "2023-12-16",
+    "histories": [
+    {
+    "id": 85640,
+    "stickerId": 283,
+    "userId": 90,
+    "partStickerType": "tag",
+    "address": "",
+    "latitude": 37.57773,
+    "longitude": 126.97344,
+    "created": "2023-12-16T16:39:24.770"
+    }
+    ]
+    },
+    {
+    "date": "2023-12-15",
+    "histories": [
+    {
+    "id": 85540,
+    "stickerId": 283,
+    "userId": 1282,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577732,
+    "longitude": 126.97345,
+    "created": "2023-12-15T19:04:57.217"
+    },
+    {
+    "id": 85510,
+    "stickerId": 283,
+    "userId": 1282,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.57774,
+    "longitude": 126.97345,
+    "created": "2023-12-15T18:08:37.323"
+    },
+    {
+    "id": 85449,
+    "stickerId": 283,
+    "userId": 1282,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577736,
+    "longitude": 126.97345,
+    "created": "2023-12-15T16:23:57.594"
+    },
+    {
+    "id": 85400,
+    "stickerId": 283,
+    "userId": 1282,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577736,
+    "longitude": 126.97346,
+    "created": "2023-12-15T15:47:58.520"
+    },
+    {
+    "id": 85369,
+    "stickerId": 283,
+    "userId": 90,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 자하문로4길 21-5",
+    "latitude": 37.577724,
+    "longitude": 126.97345,
+    "created": "2023-12-15T12:24:18.796"
+    },
+    {
+    "id": 85331,
+    "stickerId": 283,
+    "userId": 90,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 통의동",
+    "latitude": 37.577724,
+    "longitude": 126.97345,
+    "created": "2023-12-15T10:04:45.557"
+    }
+    ]
+    },
+    {
+    "date": "2023-12-14",
+    "histories": [
+    {
+    "id": 85144,
+    "stickerId": 283,
+    "userId": 1423,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 통의동",
+    "latitude": 37.577633,
+    "longitude": 126.97325,
+    "created": "2023-12-14T19:00:08.539"
+    },
+    {
+    "id": 85134,
+    "stickerId": 283,
+    "userId": 1632,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 ",
+    "latitude": 37.57878,
+    "longitude": 126.97191,
+    "created": "2023-12-14T18:49:30.684"
+    },
+    {
+    "id": 85035,
+    "stickerId": 283,
+    "userId": 885,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 통의동",
+    "latitude": 37.5776,
+    "longitude": 126.9737,
+    "created": "2023-12-14T17:15:22.565"
+    },
+    {
+    "id": 84975,
+    "stickerId": 283,
+    "userId": 1423,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 통의동",
+    "latitude": 37.577564,
+    "longitude": 126.973495,
+    "created": "2023-12-14T16:07:24.260"
+    },
+    {
+    "id": 84928,
+    "stickerId": 283,
+    "userId": 1423,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 통의동",
+    "latitude": 37.57758,
+    "longitude": 126.973526,
+    "created": "2023-12-14T15:07:01.878"
+    },
+    {
+    "id": 84908,
+    "stickerId": 283,
+    "userId": 1423,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 통의동",
+    "latitude": 37.57759,
+    "longitude": 126.97338,
+    "created": "2023-12-14T14:06:31.830"
+    },
+    {
+    "id": 84881,
+    "stickerId": 283,
+    "userId": 885,
+    "partStickerType": "tag",
+    "address": "서울특별시 서울특별시 통의동",
+    "latitude": 37.5776,
+    "longitude": 126.9737,
+    "created": "2023-12-14T12:46:31.528"
+    },
+    {
+    "id": 84833,
+    "stickerId": 283,
+    "userId": 97,
+    "partStickerType": "tag",
+    "address": "대한민국 서울특별시 종로구 통의동 35-21",
+    "latitude": 37.577866,
+    "longitude": 126.973564,
+    "created": "2023-12-14T11:08:02.227"
+    }
+    ]
+    }
+    ]
+    }
