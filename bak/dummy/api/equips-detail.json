@@ -2,21 +2,21 @@
     "code": 0,
     "message": "success",
     "result": {
-    "id": 170,
+    "id": 78,
     "companyId": 4,
     "siteId": 22,
     "userId": 90,
     "categoryId": 30,
-    "manufacturerId": 1,
-    "photoKeys": "15879fff-1dfb-11ed-b715-e3772664891e.jpg,1221e04d-1dfb-11ed-8039-c73a5567672c.jpg,10a5c70e-1dfb-11ed-b715-ff46b546e8e5.jpg",
-    "serialphotosKeys": null,
-    "dateOfManufacture": null,
+    "manufacturerId": 15,
+    "photoKeys": "9eefa5e7-3254-11ec-aeff-a989ab57ce48.jpg,9d22fc33-3254-11ec-b9af-63451cf378fc.jpg,9b796ae6-3254-11ec-aeff-cb4fe6494ad2.jpg",
+    "serialphotosKeys": "a7e8dbd8-3254-11ec-aeff-797869ad8d68.jpg,a5cdeb14-3254-11ec-b9af-2f93b5981c7f.jpg",
+    "dateOfManufacture": "2021-01-01T00:00:00.000",
     "serials": null,
-    "name": "캡슐머신",
-    "color": null,
-    "comment": "캡슐머신",
+    "name": "김용호 맥북 프로 13",
+    "color": "eeeeee",
+    "comment": "자산번호:  BP211019N01D\n자산종류: 노트북\n제조사: Apple\n모델명:  MacBook Pro M1\n자산위치: 개발/디자인\n마지막 사용자: 김용호\n비고: ",
     "serialStatus": "none",
-    "created": "2022-08-17T16:06:21.899",
+    "created": "2021-10-21T18:52:53.981",
     "equipmentCategory": {
     "id": 30,
     "name": "사무용품",
@@ -32,56 +32,69 @@
     "created": "2021-06-29T01:46:38.373"
     },
     "equipmentManufacturer": {
-    "id": 1,
-    "name": "기타",
+    "id": 15,
+    "name": "애플",
     "photos": "3aca8318-ce5e-11eb-b9cd-11f34e3adbdb.png",
     "color": "999999",
-    "created": "2021-06-16T13:49:00.888"
+    "created": "2021-06-29T01:53:38.980"
     },
     "equipmentSticker": {
-    "id": 283,
-    "name": "015-0003",
-    "bleMacAddress": "ac233fa9de74"
+    "id": 64,
+    "name": "006-0064",
+    "bleMacAddress": "ac233fa9dd2a"
     },
     "partParentId": 0,
-    "partName": "본체",
-    "stickerId": 283,
+    "partName": null,
+    "stickerId": 64,
     "equipState": "in_use",
-    "standard": null,
-    "purchased": null,
+    "standard": "13inch",
+    "purchased": "2021-09-22T00:00:00.000",
     "warehoused": "2023-08-02T00:00:00.000",
     "site": null,
     "companyName": null,
     "partHistory": {
-    "id": 87099,
-    "stickerId": 283,
+    "id": 87698,
+    "stickerId": 64,
     "userId": 323,
     "partStickerType": "tag",
     "address": "서울특별시 서울특별시 통의동",
     "latitude": 37.577747,
     "longitude": 126.97353,
-    "created": "2023-12-21T14:40:56.031"
+    "created": "2023-12-27T14:00:15.582"
     },
     "photos": [
     {
     "prefix": "equipments/512",
-    "id": "15879fff-1dfb-11ed-b715-e3772664891e.jpg",
+    "id": "9eefa5e7-3254-11ec-aeff-a989ab57ce48.jpg",
     "bucket": "odigo-production",
-    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/15879fff-1dfb-11ed-b715-e3772664891e.jpg"
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/9eefa5e7-3254-11ec-aeff-a989ab57ce48.jpg"
     },
     {
     "prefix": "equipments/512",
-    "id": "1221e04d-1dfb-11ed-8039-c73a5567672c.jpg",
+    "id": "9d22fc33-3254-11ec-b9af-63451cf378fc.jpg",
     "bucket": "odigo-production",
-    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/1221e04d-1dfb-11ed-8039-c73a5567672c.jpg"
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/9d22fc33-3254-11ec-b9af-63451cf378fc.jpg"
     },
     {
     "prefix": "equipments/512",
-    "id": "10a5c70e-1dfb-11ed-b715-ff46b546e8e5.jpg",
+    "id": "9b796ae6-3254-11ec-aeff-cb4fe6494ad2.jpg",
     "bucket": "odigo-production",
-    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/10a5c70e-1dfb-11ed-b715-ff46b546e8e5.jpg"
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/9b796ae6-3254-11ec-aeff-cb4fe6494ad2.jpg"
     }
     ],
-    "serialPhotos": []
+    "serialPhotos": [
+    {
+    "prefix": "equipments/512",
+    "id": "a7e8dbd8-3254-11ec-aeff-797869ad8d68.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/a7e8dbd8-3254-11ec-aeff-797869ad8d68.jpg"
+    },
+    {
+    "prefix": "equipments/512",
+    "id": "a5cdeb14-3254-11ec-b9af-2f93b5981c7f.jpg",
+    "bucket": "odigo-production",
+    "url": "https://s3.ap-northeast-2.amazonaws.com/odigo-production/equipments/512/a5cdeb14-3254-11ec-b9af-2f93b5981c7f.jpg"
+    }
+    ]
     }
     }
